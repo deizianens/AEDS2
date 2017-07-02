@@ -1,0 +1,1506 @@
+5
+100;AnaMaria;200;500
+200;HannahM;100
+300;Guedes;400
+400;Anderson;300;500
+500;Simone;100;400
+1;1;500;5000;RT @matheusboxer_: Amanhu vou botar futebol  hquei no gelo  vlei  tnis  a porra toda....
+2;1;400;5001;esse hyuri s serviu pra me da a chuteira dele mesmo  jogar futebol que  bom  Ae
+3;1;200;5002;RT @_docedejambo: imagina que coisa maravilhosa seria uma cama quentinha  com uma pessoa maravilhosa  com um filme timo e varias besteirasOCa
+4;4;100;5002
+5;1;200;5003;RT @captainbarnez: eu odeio a warner mano srio ela caga com o filme no cinema e dps faz versuo estendida pra ganhar mais dinheiro VAI PROOCa
+6;4;500;5001
+7;5;200
+8;1;300;5004;@fckdougiep ESSE FILME e MUITO BOM
+9;5;400
+10;1;300;5005;RT @fckyaas: e ruim! Que eu vou ficar em casa assistindo seriado me empanturrando de sorvete congelado chorando por algum que nuo deu contOCa
+11;1;300;5006;RT @ruscillo: A impressuo que tenho  que o Rodriguo e eu temos o mesmo futebol. Ou seja: nenhum.
+12;4;300;5004
+13;1;300;5007;Tenho saudade de muita coisa  mas acho que a maior saudade  a do futebol...OU AO
+14;1;100;5008;@rsnathi ji vi o filme mas nuo lembro de como foi o final
+15;5;400
+16;5;400
+17;1;500;5009;Filme bizarruo
+18;4;300;5005
+19;5;200
+20;1;100;5010;RT @luscas: outro filme do wolverine? ngm aguenta mais bicho manda um da tempestade ou da jean https://t.co/2XQtC77zaS
+21;5;100
+22;1;200;5011;RT @camilaa_beckeer: os cara tira futebol p passar the voice  pelo amorrr
+23;1;100;5012;eu sou a unica pessoa q eu conheoo no mundo que ainda vai ate a locadora pra alugar filme
+24;4;400;5005
+25;4;500;5008
+26;4;100;5003
+27;1;200;5013;Gostei de um vdeo @YouTube de @juliococielo https://t.co/Fo4PJyoTcy CLICHeS DE FILME ROMeNTICO
+28;4;200;5005
+29;1;100;5014;RT @lovyuself_: @leeets15 miga seu filme OOiU https://t.co/qNAcFGbwYj
+30;5;200
+31;1;200;5015;Gostei de um vdeo @YouTube de @juliococielo https://t.co/EwEP9yLtaT CLICHeS DE FILME ROMeNTICO
+32;1;100;5016;30h pra carregar o filme e ai quando falta 20min pra acabar  o computador trava e sai fechando tudo que ta aberto  hoje o dia ta de parabens
+33;1;100;5017;Gostei de um vdeo @YouTube de @juliococielo https://t.co/h6Mst2gwFi CLICHeS DE FILME ROMeNTICO
+34;1;400;5018;Por que quem da mole no filme da vida nuo passa nem do primeiro episdio.
+35;1;500;5019;RT @SrtaMartins2: #MeuPesadeloe assistir filme de terror sozinha.
+36;1;300;5020;esse filme  tao incrvel (o livro tb) https://t.co/CwqrtJdjbv
+37;1;500;5021;Chuta quem foi o ser a deixar os amigos no ponto de onibus dps de um filme bem feliste e quando voltou pro cursinho chorou no banheiro?
+38;1;100;5022;Vou ver filme e depois dormir
+39;1;300;5023;Em Santiago houve aumento de 50 para 60 km/h e foi atestado um aumento de mortes no tronsito  https://t.co/MNDI0bzYXF via @elpais_brasil
+40;1;100;5024;Guerra Civil  acho #ARIASJUSTINBIEBER https://t.co/qSLlrgiFBi
+41;1;100;5025;A conta que todo mundo estava procurando https://t.co/Q5MhSmyrZS
+42;1;400;5026;Aos 49 minutos  irbitro apita o fim de jogo. Santos vence por 2 a 1. #tr https://t.co/vbNpESvbjp
+43;1;500;5027;E depois vem dar discursinho por causa do 7x1. Mais um absurdo da @RedeGlobo . https://t.co/T82agtiNtZ
+44;5;400
+45;1;100;5028;A Esquerda nuo pode perder o Centro https://t.co/sOg6YDnAlp via @ConversaAfiada
+46;5;100
+47;1;300;5029;futebol  bagulho de otirio
+48;1;100;5030;Eu s queria um saco de amendoim e um jogo de futebol descente
+49;1;500;5031;RT @Esseteucu: A vida n  um filme porno n fofas infelizmente
+50;1;400;5032;@lorranibrehm pq seri que eu nuo assisto filme de terror https://t.co/U22hQPR0QZ
+51;1;300;5033;Gostei de um vdeo @YouTube https://t.co/e03yCo0qvr - Prova Filme Mudo - #MalenIsa
+52;1;400;5034;Queria um filme assim pra sofrer hoje pra ficar bem mals
+53;5;400
+54;4;400;5005
+55;1;300;5035;A culpa  das estrelas https://t.co/7kwjX9aDTi
+56;4;100;5015
+57;1;400;5036;Se for pra pensar em ttulo  com esse futebol jogado de hoje  e nessa oscilaouo entre primeiro e segundo tempo  ji foi pro saco.
+58;1;400;5037;Me Before You   um filme que nuo da pra enjoar
+59;1;200;5038;Chuta quem foi o ser a deixar os amigos no ponto de onibus dps de um filme bem feliste e quando voltou pro cursinho chorou no banheiro?
+60;1;400;5039;iamo esse filmei https://t.co/FDF88Ketey
+61;5;300
+62;1;500;5040;Cheguei tava jogando um futebol maroto
+63;5;500
+64;1;100;5041;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+65;1;500;5042;@DudaHilario10 vamos p cinema  filme de terror  eu gritando  sucesso
+66;1;100;5043;@globoesportecom S se for FUTEBOL DE BOTaO... Esse bichou de vez!
+67;1;300;5044;At parece  brigar por futebol? https://t.co/7JJbi917x3
+68;1;100;5045;@isapchagas HAHAHHAHA u e aquela histria de me chama pra maratona de filme de terror q eu vou????
+69;1;400;5046;RT @zanetti__: Mulher gostar de futebol nuo  feio! Feio  ela ser coxa branca!
+70;4;300;5009
+71;5;400
+72;4;200;5004
+73;4;100;5045
+74;4;200;5022
+75;5;100
+76;1;200;5047;e o que eu digo. https://t.co/1f8A648K6L
+77;4;300;5015
+78;1;500;5048;Hoje eu s tava afim de ficar deitada no colo dele  ficar assistindo filme yoyoyo
+79;5;500
+80;1;200;5049;CHOREI EM UP #ARIASJUSTINBIEBER https://t.co/ApGewUkt55
+81;4;500;5049
+82;1;200;5050;@futirinhas at o Rodriguo(Santos) seria titular e considerado craque por um comentarista de futebol
+83;1;400;5051;melhor filme
+84;1;400;5052;se amanhu a jaque aparecer com aquele filme  eu exponho ela na internet
+85;1;100;5053;quando terminar  @TheVoiceBrasil vou ver um filme
+86;1;400;5054;Vendo amizade desfeita  e to achando um filme nada haver.
+87;1;500;5055;RT @cartacapital: Pr-sal: Congresso libera multinacionais para explorar sem a Petrobras - https://t.co/mIjQFnkAHd #PreSal https://t.co/QALOCa
+88;4;300;5015
+89;4;200;5015
+90;4;100;5029
+91;1;300;5056;Filme pelas tbm kkkkkk terminei de v agora
+92;1;100;5057;RT @nessan__: @yamsraptor srio nuo aguento mais fandom que di tetra por causa de ship! parece futebol isso
+93;1;200;5058;Eu vejo esse pv flando de futebol e eu n sei nd disso  procs terem noouo eu at hj nn sei qq  cartola algm pode me explicar qq  isso?
+94;1;100;5059;Gostei de um vdeo @YouTube https://t.co/Lkl5hlidNG - Prova Filme Mudo - #ORetornoDeSabosta
+95;5;200
+96;4;100;5038
+97;1;300;5060;Um monte de srie atrasada  mas terminei de ler o livro novo da Becky e deu vontade de rever o filme. #shrug
+98;4;200;5044
+99;5;500
+100;1;400;5061;Bellerin pode ser contrataouo ideal para Barcelona  mas sem pressa: Lateral direito for fo... https://t.co/KYV8Mt9gtn #football #futebol
+101;1;200;5062;Gostei de um vdeo @YouTube de @juliococielo https://t.co/EwEP9yLtaT CLICHeS DE FILME ROMeNTICO
+102;1;200;5063;RT @ADLEZ_AP: STJ confirma manobra e salva Pimentel . TOGAS NOJENTAS  SUJAS  PODRES! https://t.co/iOMVeyhzx7 via @VEJA.com
+103;1;400;5064;quero um filme dela pra ontem
+104;1;500;5065;RT @UNIQ_BRASIL: [#HQ] 24/04/16 #Yixuan na gravaouo do Super Show sobre o filme MBA Partners.cr: FEVER12111 (2) https://t.co/XrA2aKmYdR
+105;5;500
+106;1;500;5066;RT @juliococielo: OLHA O VIDEO NOVO!!! CLICHeS DE FILME ROMeNTICO: https://t.co/xBz1vZyRrT 2 mil rts fariam meu dia lindo On A
+107;4;500;5001
+108;4;200;5052
+109;1;100;5067;Nao passa um filme bom nmrl
+110;1;200;5068;RT @tatibarroso_: Gatos  fio dentais e amassos  melhor filme da infoncia.
+111;5;500
+112;4;500;5016
+113;5;400
+114;1;100;5069;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+115;1;200;5070;Certeza que o cara que falou pro Matheus Reis que ele  jogador de futebol foi o mesmo que falou que o Ricardo Gomes  tcnico de futebol
+116;5;400
+117;4;500;5036
+118;1;200;5071;RT @DicasdoCartola: As vezes a audincia pode nuo compensar para a Globo  mas quarta a noite  dia de futebol  e a emissora precisa valorizOCa
+119;4;200;5055
+120;4;200;5070
+121;4;400;5060
+122;1;100;5072;s o flamengo p salvar o futebol carioca
+123;1;500;5073;Gostei de um vdeo @YouTube de @juliococielo https://t.co/fmhmS8vRWZ CLICHeS DE FILME ROMeNTICO
+124;4;200;5012
+125;5;300
+126;1;300;5074;Gostei de um vdeo @YouTube de @omelete https://t.co/EXdDIp4rzU Wolverine 3: primeiro pster revela segredo do filme?
+127;1;200;5075;esperar para sempre  um filme esplndido
+128;1;300;5076;RT @GuiCunhaR_: ainda bem que eu jogo vlei https://t.co/2nkqqkW8JX
+129;1;500;5077;Nunca  o filme yeyeye https://t.co/fJh9AyGYu5
+130;5;200
+131;1;100;5078;Parece at o homem daquele filme escola do rock KKKKKKKKK
+132;1;100;5079;RT @zelune: @luscas sei la cara ti escrito logan vai que  um filme sobre aquele carro da renault
+133;4;200;5010
+134;4;300;5039
+135;4;400;5057
+136;1;100;5080;#Vamos pra frente  goianienses! Vamos eleger @Vanderlan40 com uma belssima maioria de votos!!! https://t.co/SS2dmobm3E
+137;1;300;5081;vou acabar de assistir esse filme aqui agr Sem retorno
+138;1;400;5082;Supremo mantm possibilidade de prisuo a condenados em 2 instoncia #G1 https://t.co/qGZIGIpTAE
+139;4;200;5013
+140;1;500;5083;@MeuTimao O ttulo deveria ser Resposta da Fiel A diretoria achou que ia dar pra manter ingresso caro e pouco futebol at quando?
+141;4;100;5056
+142;1;300;5084;Gostei de um vdeo @YouTube de @juliococielo https://t.co/fDUrtMbtGo CLICHeS DE FILME ROMeNTICO
+143;4;500;5063
+144;1;500;5085;@willsandrini em outros esportes  jogadores tm essa atitude  no futebol   algo raro  por isso citei. Abraoo
+145;4;500;5033
+146;1;300;5086;Marco Aurlio Cunha manda recado para Calleri: 'Que tal conversarmos?' https://t.co/pJy3QxzwlP via @UOLEsporte @UOL
+147;5;100
+148;4;200;5007
+149;1;200;5087;Nuo acredito que fui pra aula s pra olhar filme y
+150;1;500;5088;RT @Grande_Area: Leia a nova coluna de @anunesrocha: A pobreza do debate sobre futebol no Brasil https://t.co/stXbvjyjFK (c/cOCa
+151;1;200;5089;@anamariabahiana gostou do filme?
+152;5;200
+153;5;300
+154;4;400;5026
+155;1;300;5090;RT @Oledobrasil: Voc sabe que a fase do futebol brasileiro esti ruim quando a emissora prefere passar um reality show musical em vez do coOCa
+156;1;400;5091;RT @LuhanBrasil: (#WEIBO) 30/09/16 Atualizaouo do Luhan:Hoje  sexta-feira  estou olhando na direouo do campo de futebol yuyuyu https://t.OCa
+157;5;400
+158;4;100;5030
+159;1;100;5092;Gostei de um vdeo @YouTube de @juliococielo https://t.co/L7AYWgNinj CLICHeS DE FILME ROMeNTICO
+160;5;300
+161;4;200;5087
+162;4;200;5065
+163;4;400;5074
+164;1;100;5093;RT @globoesportecom: Jean Chera anuncia retorno ao futebol https://t.co/lrWsckteO3 https://t.co/vR0j0CNbaE
+165;4;400;5003
+166;1;100;5094;QUE FILME FODA!
+167;4;100;5064
+168;4;100;5019
+169;1;500;5095;RT @esqui_livia: Coraline  um filme que nunca perde a graoa
+170;1;400;5096;filme da kefera
+171;1;200;5097;Que filme! Que filme! https://t.co/X8QmYhIvLM
+172;1;100;5098;Nuo entendi por que voce se preocupa com o meu futebol!!
+173;1;300;5099;Olha... Nuo t entendendo nada desse filme.
+174;1;100;5100;que the voice o que cade o futebol ???
+175;5;200
+176;5;300
+177;5;500
+178;5;300
+179;1;400;5101;Ver um filme #MPN #ZeFelipeRevelacao https://t.co/86Mw7lLvte
+180;1;300;5102;I liked a @YouTube video from @juliococielo https://t.co/FjPg9WCU5y CLICHeS DE FILME ROMeNTICO
+181;1;100;5103;RT @mahatma_w: nesse frio gostaria de ver um filme debaixo das cobertas e depois aquela transa pra dormi kkkkkk s isso msm porem so vou doOCa
+182;1;400;5104;RT @cdmricardo: hj na ed. fisica os garoto ia joga futebol eu perguntei se podia joga eles disserao que sim so que eu ia se a bola..sai rolOCa
+183;1;400;5105;RT @NaoInviabilize: #LuzAcesa 06 de maroo de 1989. Belo Horizonte - MG. Ana Clara  Isabel e Maria Cliudia  estudantes de medicina da UFMG mOCa
+184;1;400;5106;Que tipo de filme voc gosta de assistir? OCo Ficouo cientfica.  https://t.co/3pUR4wRdzu
+185;4;300;5054
+186;1;100;5107;E o filme ? KKKKKKKKKKKKK
+187;1;200;5108;To assistindo um filme sinistro
+188;1;400;5109;Todo filme de terror tem 6 branco P cada 1 negro
+189;1;200;5110;Vou ver filme na casa do irmuo
+190;1;100;5111;RT @Fischer____: Botem uma coisa nas cabeoas de vcs  o Futebol carioca jamais chegari perto do Futebol Paulista.
+191;4;100;5017
+192;1;300;5112;Todos ns temos dolos dentro do futebol  o seu pode ser qualquer um  mas o meu  esse cara a! #CR7 https://t.co/ouij6mT9xd
+193;1;400;5113;E esse filme do Solo tinha me broxado com a escolha do ator  mas parece que agora sou team SOLO de novo. https://t.co/wPdsPUEctv
+194;4;400;5086
+195;5;500
+196;4;500;5002
+197;1;200;5114;Gostei de um vdeo @YouTube https://t.co/1lt6gAyAsH - Prova Filme Mudo - #JaimeLira
+198;5;100
+199;1;100;5115;Eu queria muito saber o que o @calilcomc sobre este patrocnio do Santos @tresportes ! https://t.co/Z9e8Wvqnia
+200;1;400;5116;Quero muito esse filme  pra hoje! #SwissArmyMan https://t.co/WtHrpb4KOx via @YouTube
+201;1;400;5117;@CrisCastroGalo @karpovichegalo Faltou futebol  simples assim.
+202;1;500;5118;RT @StellaMendonca: Governo FHC  investigado na Lava-Jato por compra deatermoeltricas https://t.co/6pqVKStEQ6 https://t.co/73daiZ8oJA
+203;4;200;5029
+204;1;300;5119;@coldplaier e meus sonhossrio eu criei um filme dormindo se duvida pergunta pra minhas manas eu conto todos os sonhos pepperony pra elas
+205;4;500;5066
+206;4;200;5097
+207;1;100;5120;RT @SemClubismo_FC: Gostaria de dizer que a Rede Globo  grande apoiadora do nosso futebol (risos)  resolveu passar o The Voice ao invs doOCa
+208;1;400;5121;RT @globoesportecom: Jean Chera anuncia retorno ao futebol https://t.co/lrWsckteO3 https://t.co/vR0j0CNbaE
+209;1;300;5122;RT @mari_werneck17: Precisando conhecer um povo novoDevia ter ido na UFMG ontem
+210;1;200;5123;RT @FutNaRedonda: Futebol tambm tem dessas  amigos... https://t.co/cgywFsDUAt
+211;5;300
+212;1;100;5124;@giihodonoghue @UniversalPicsBr eu ja assisti esse filme com meu primo no pc KKKKKK
+213;1;300;5125;Gostei de um vdeo @YouTube de @desimpedidos https://t.co/yOXyzBXwG5 TOP 10 - NOJEIRAS DO FUTEBOL - FRED +10
+214;1;300;5126;Chuta quem foi o ser a deixar os amigos no ponto de onibus dps de um filme bem feliste e quando voltou pro cursinho chorou no banheiro?
+215;5;200
+216;5;400
+217;1;400;5127;peguei panico de palhaoo depois daquele filme que eu vi c a rhanna KKKKKKKKKKK
+218;4;500;5053
+219;1;400;5128;Vejo pessoas elogiando o Carlinhos. Nuo devo manjar nada de futebol...
+220;1;100;5129;VIDHaO NOVO DO @juliococielo CLICHeS DE FILME ROMeNTICO Assistam se inscrevam no canal e de o seu like para ajudar o canal!Tu FODA DEMAIS!
+221;4;300;5016
+222;4;300;5029
+223;1;500;5130;RT @federicodevito: brasil ganha da franoa: nois ribrasil perde da china: nois chorabrasil final de futebol: nois ribrasil enfrentari alOCa
+224;4;200;5020
+225;1;400;5131;@nyedsonbarbosa o TV seri nas quintas  hoje nuo tem futebol pra mostrar  pq amanhu tem Brasil x Bolvia.
+226;1;400;5132;Futebol de hoje jogar parado igual o fred e robinho nuo da
+227;4;500;5100
+228;1;200;5133;S passei pra dizer que eu amo esse filme https://t.co/pPB8nFYjzR
+229;4;100;5069
+230;4;100;5077
+231;1;200;5134;Desculpa mas homem que nuo gosta de futebol nuo  completo kk
+232;1;300;5135;RT @juliococielo: CLICHeS DE FILME ROMeNTICO: https://t.co/xBz1vZyRrT via @YouTube
+233;1;100;5136;eu sou tuo fu de x-men que foi s aparecer a logo da bad hat harry productions que eu saquei que era filme deles agora na fox
+234;1;200;5137;Ver um filme #MPN #ZeFelipeRevelacao https://t.co/86Mw7lLvte
+235;1;300;5138;RT @mari_werneck17: Precisando conhecer um povo novoDevia ter ido na UFMG ontem
+236;1;200;5139;Diretoria o Dorival nuo  tcnico de futebol pri liberadores  contrata o Lucha.
+237;1;500;5140;aquele filme seria mto veridico  se o romeu q eu conheci nuo fosse um grande fdp
+238;1;200;5141;meu nariz ta sangrando tipo em filme sabe que doido
+239;1;100;5142;Quero assistir um filme de comdia ou um choradeira  hoje to aos extremos! Kk
+240;1;400;5143;IAB ironiza decisuo do STF com 'nota de falecimento da Constituiouo' https://t.co/SMmoV6NZQl
+241;4;500;5075
+242;5;500
+243;1;500;5144;Gostei de um vdeo @YouTube de @juliococielo https://t.co/5QztdmbE6r CLICHeS DE FILME ROMeNTICO
+244;1;400;5145;@coldplaier e meus sonhossrio eu criei um filme dormindo se duvida pergunta pra minhas manas eu conto todos os sonhos pepperony pra elas
+245;1;100;5146;@skzatta qual era o filme?
+246;1;100;5147;Gostei de um vdeo @YouTube https://t.co/4APvRJ3Vei: e Safadona essa Fada: Kfera  fada o filme
+247;5;300
+248;1;500;5148;Guerra Civil  acho #ARIASJUSTINBIEBER https://t.co/qSLlrgiFBi
+249;5;200
+250;1;300;5149;RT @escorpixnos: escorpianos  daqueles que gosta de sofrer  adora aquele drama bem de filme  quer que tudo em sua vida seja simplesmente OCa
+251;4;300;5145
+252;4;300;5138
+253;1;200;5150;RT @LayBrazil: [#YixingWeek] Dia 5 - Especial O lado EXO-L de LAY.E mesmo estando em uma conferncia de imprensa de um filme nOCa
+254;4;500;5049
+255;1;200;5151;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+256;1;300;5152;A conta que todo mundo estava procurando https://t.co/Q5MhSmyrZS
+257;4;400;5116
+258;1;100;5153;RT @cudelourry: Esquadruo Suicida (pelo enredo pq a atuaouo foi incrvel) DEATHSTROKE DEVERIA USAR MAIS MuSCARA #ARIASONEDIRECTION https://OCa
+259;5;200
+260;1;100;5154;RT @ThinkOfYouZayn: Eu fiquei na mesma sala que o Harry na audiouo para o filme e devo dizer que o processo  bem estressante. OCo Jack LowOCa
+261;4;500;5050
+262;1;400;5155;Gostei de um vdeo @YouTube de @juliococielo https://t.co/h6Mst2gwFi CLICHeS DE FILME ROMeNTICO
+263;5;200
+264;1;100;5156;RT @legado_da_copa_: LEMBRANDO QUE O LEGADaO e Fa DO FUTEBOL DE PERNAMBUCO
+265;4;400;5135
+266;4;200;5098
+267;4;100;5102
+268;1;200;5157;Todos ns temos dolos dentro do futebol  o seu pode ser qualquer um  mas o meu  esse cara a! #CR7 https://t.co/ouij6mT9xd
+269;1;300;5158;Que  mais ficil encontrar uma mulher branca num cargo importante  protagonista num filme  num espaoo acadmico do que um homem negro?
+270;1;300;5159;Que chatisse  tl cheia de The Voice  em quarta de futebol.
+271;4;500;5094
+272;4;100;5083
+273;4;500;5110
+274;4;200;5048
+275;1;400;5160;Sou o nico que gosta de filme trash pra crlh? Aquele que s vc acha graoa e se mija de rir
+276;5;500
+277;1;200;5161;Gostei de um vdeo @YouTube de @juliococielo https://t.co/RCPm9lINZ2 CLICHeS DE FILME ROMeNTICO
+278;1;300;5162;RT @_ThiagoCotta: Pra quem pensa em ttulo empate de hoje foi trigico  horroroso  pelo futebol que nuo apresentamos ti at de bom tamanho
+279;1;500;5163;ah pronto ate Kfera fez filme agora
+280;1;500;5164;RT @palmeriodoria: Aps ato na Comara  trabalhadores mantm protesto em Braslia contra medidas de Temer https://t.co/v2uea8vsh9 via @redebOCa
+281;1;300;5165;RT @rioonibus: #EssaVidaDe Wolverine seri contada no novo filme?#onibusRJ https://t.co/I5UDLMXOPs
+282;1;200;5166;Vou ver o filme da kfera amanhu ksksksjs
+283;4;300;5109
+284;1;300;5167;Amanhu estria o filme da fadona. yiy
+285;1;300;5168;Gostei de um vdeo @YouTube https://t.co/FNZgn01vgz - Prova Filme Mudo - #JaimeLira
+286;1;400;5169;Pau no cu da diretoria do Corinthians  pau no cu do futebol brasileiro  pau no cu desse brasileiruo e principalmente pau no cu da cbf
+287;1;200;5170;Vou ver meu filme q amo demais
+288;5;200
+289;1;300;5171;da vampira pf nunca pedi nada https://t.co/00xg7EFmsz
+290;1;500;5172;E to evitando ficar vendo Netflix pq sou descontrolada e n paro mais de ver  se deixar di 5 horas da manhu e eu nuo parei de ver serie/filme
+291;1;500;5173;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+292;1;100;5174;Amanhu vou botar futebol  hquei no gelo  vlei  tnis  a porra toda....
+293;4;300;5085
+294;1;100;5175;o que  the voice quando se tem futebol
+295;1;400;5176;Gostei de um vdeo @YouTube de @juliococielo https://t.co/YyODJdvF7L CLICHeS DE FILME ROMeNTICO
+296;1;300;5177;Como num filme no final tudo vai dar certo  quem foi que disse que pra ti junto precisa ti perto
+297;5;200
+298;1;100;5178;RT @zuadorcitou: A culpa  das estrelas  aquele filme  que te faz pensar em dar mais valor a quem esti do seu lado
+299;1;300;5179;@broaska visualmente  legal mesmo  mas o cara ti s fazendo filme ruimum que eu gosto dele  grandes olhos
+300;4;500;5109
+301;4;500;5025
+302;4;100;5032
+303;5;100
+304;1;500;5180;Diego sempre teve futebol pra jogar em nvel europeu mas ele mesmo sempre se complicou..
+305;4;200;5014
+306;4;200;5003
+307;1;400;5181;Nuo sei se  pior ser trocada por futebol  ou seriado. To analisando aqui.
+308;1;500;5182;RT @PAG0D3: Tava desacreditando do amor quando de repente num olhar o meu mundo parou parecia filme coisa de cinema mas at que enfim vocOCa
+309;4;100;5041
+310;1;300;5183;To vendo filme C davizinho
+311;1;300;5184;Gostei de um vdeo @YouTube de @juliococielo https://t.co/aLUP8nwyP9 CLICHeS DE FILME ROMeNTICO
+312;1;300;5185;RT @AndreLuuiz_: Cad voc @ https://t.co/SXJ53xTbOT
+313;1;500;5186;@Silva_RenatoJr palhaoo??? ti maluco  consigo nem ver foto de palhaoo  imagina ver filme
+314;1;300;5187;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+315;4;400;5080
+316;5;200
+317;1;500;5188;Tantos adolescentes triste por nuo ter mais jogo de futebol  isso vai votar no 15 yy
+318;5;400
+319;5;400
+320;4;500;5046
+321;1;200;5189;RT @LeisDeNilton: Principalmente as que moram em Estados onde o futebol nuo  expressivo e jamais o Cruzeiro viria jogar. Tem gente qOCa
+322;4;400;5158
+323;5;200
+324;1;100;5190;Vou ver o filme da kfera amanhu ksksksjs
+325;1;500;5191;uma amiga das antiga veio assistir filme comigo  nem sabia que essa amizade era forte assim
+326;1;200;5192;RT @velhocronista: At da Arena Corinthians  antes pulsante  o povo esti ameaoando sumir. O futebol brasileiro  meus caros  esti sendo carcOCa
+327;1;500;5193;A galera n intendeu q esses palhaoos nas ruas americanas sao por causa do filme uma noite de crime 3 q vai estreiar amanha nos cinema
+328;1;100;5194;RT @LuFarnese: S digo que nuo entendi nada de nada do filme  mas blz
+329;4;500;5041
+330;1;200;5195;muito bom conhecer uma pessoa que goste de futebol e entenda na mesma porcentagem que vocAA
+331;4;200;5155
+332;1;100;5196;Quem vai no cinema amanhu assistir o filme dos Rolling Stones em Cuba? A14AAA
+333;1;400;5197;Gostei de um vdeo do @YouTube https://t.co/BAsUWgbwFn #EntubadosNoSony - Prova Filme Mudo - #MalenIsa
+334;5;500
+335;1;200;5198;proximo show eu vo de camisa regata  calouo de futebol e crocks
+336;1;200;5199;@xmetzli sim  estupro  um ato foroado  filme porn nuo  foroado   na maioria deles rola um contrato mesmo q informal entao n faz sentido
+337;1;200;5200;Gostei de um vdeo @YouTube de @juliococielo https://t.co/3qC3TjnznY CLICHeS DE FILME ROMeNTICO
+338;4;200;5112
+339;5;200
+340;1;300;5201;Agora um filme de levs
+341;1;400;5202;ficouo cientfica e aouo #ARIASJUSTINBIEBER https://t.co/fnSo1Yjx6U
+342;1;100;5203;RT @annycaroliina: Como  que a globo tira o futebol da quarta pra colocar The Voice?
+343;1;400;5204;RT @ah_Ketleen: Quero ir ver o filme da Kefera
+344;1;300;5205;RT @macairamanu: 2. pq o final desse filme me destri https://t.co/2ccQiCYLfO
+345;4;300;5139
+346;1;500;5206;RT @jaysccp: sei que futebol nuo  justo  mas era pra ser 3 pontos nosso. pelo jogo feito  e pelo gol mal anulado.
+347;5;100
+348;5;100
+349;1;500;5207;o filme foi bom  me emocionei  mas nao chega nem perto do que eu senti lendo o livro. aquela noite will levou um pedaoo de mim junto dele.
+350;1;300;5208;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+351;1;400;5209;RT @cartacapital: Pr-sal: Congresso libera multinacionais para explorar sem a Petrobras - https://t.co/mIjQFnkAHd #PreSal https://t.co/QALOCa
+352;5;200
+353;1;100;5210;RT @Sfc_Elias: AVE RICARDO OLIVEIRA O FUTEBOL e CONVOSCO BENDITO SOIS VoS ENTRE OS GOLEIROS E BENDITO e O FRUTO DO VOSSO Pe: O GOL
+354;4;400;5042
+355;1;400;5211;Gostei de um vdeo @YouTube de @juliococielo https://t.co/4ooThXjB6h CLICHeS DE FILME ROMeNTICO
+356;4;500;5105
+357;4;300;5192
+358;1;500;5212;Falta futebol. E tambm gana. Vejam a diferenoa do Palmeiras ontem. Buscando os 3 pontos. https://t.co/DOrFEw6onV
+359;4;300;5209
+360;4;200;5156
+361;1;300;5213;RT @69secsu: DEIXA DE PASSAR FUTEBOL PRA PASSAR PORRA DE THE VOICE BRASIL  VAI TOMAR NO CU  GLOBO
+362;1;400;5214;@plihalespn esse nuo precisa de tcnico para queimar... O futebol dele ji queimou ele faz uns 6 meses...
+363;4;400;5014
+364;1;500;5215;Passa um filme na cabeoa n tem como deixar de pensar
+365;4;400;5010
+366;5;100
+367;1;100;5216;Duff e  Divergente #ARIASONEDIRECTION https://t.co/jkXrsJoAQR
+368;5;400
+369;4;100;5173
+370;5;300
+371;1;400;5217;RT @CasalFalando: - amor to com dor aqui- tenho um remedio otimo pra voc  ir jogar futebol
+372;1;200;5218;RT @Footstats: Footstats Tempo Real para IOS!!! Finalmente!!! Maior central de dados de desempenho do futebol brasileiro!! https://t.co/0GCOCa
+373;1;300;5219;RT @ProjetoGamesJB: OCoGame CiteOCoUm filme com a letra BDem RT para Votar  Use a Tag para Responder /Thas#ARIASJUSTINBIEBER
+374;4;300;5074
+375;1;300;5220;@heyfeh pode crer  amizade. muitos aplausos. Fionnula Flanagan  que  da Academia e do comit de filme estrangeiro  toda feliz.
+376;1;300;5221;RT @DicasdoCartola: As vezes a audincia pode nuo compensar para a Globo  mas quarta a noite  dia de futebol  e a emissora precisa valorizOCa
+377;5;300
+378;1;500;5222;Plena quarta e eu e mozi bebendo caipirinha e vendo filme THAT'S THE DREAM
+379;5;300
+380;5;100
+381;4;100;5158
+382;1;500;5223;Queria assistir filme em companhia mas s queria mesmo.
+383;1;500;5224;RT @DonaLuciaHexa: A maior prova que nuo somos mais o pas do futebol  que a maior emissora prefere passar The Voice do que a rodada do BrOCa
+384;1;400;5225;EU ODEIO FUTEBOL
+385;4;200;5166
+386;1;400;5226;@loohbastos14 osh fui no cinema ue assistir um filme de boas e tinha ilcool li s
+387;4;400;5015
+388;4;300;5117
+389;4;200;5050
+390;1;400;5227;Pra olhar um filme nesse exato momento  qual escolheria?
+391;4;500;5199
+392;1;100;5228;RT @Sfc_Elias: AVE RICARDO OLIVEIRA O FUTEBOL e CONVOSCO BENDITO SOIS VoS ENTRE OS GOLEIROS E BENDITO e O FRUTO DO VOSSO Pe: O GOL
+393;1;400;5229;Falar com meu pai enquanto ele ti vendo futebol  a mesma coisa que falar sozinha. Ele xinga a TV  sai da sala  e nada de me responder ya
+394;1;300;5230;Vitriaaaa &lt3 OCo assistindo Santos Futebol Clube
+395;1;400;5231;Gostei de um vdeo @YouTube de @juliococielo https://t.co/PHysCVO7nu CLICHeS DE FILME ROMeNTICO
+396;1;500;5232;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+397;1;400;5233;RT @lanegrao: COMO QUE EU VOU DORMIR DEPOIS DE LER ISSO E SABER QUE AMANHA NAO SERA O MESMO? https://t.co/JoZ7KjUtzr
+398;1;100;5234;hoje eu matei o menino futebol
+399;1;300;5235;Vei acabei de ver o trailer do filme 4 vidas de um cachorro e acho q esse filme vai ser mto legal
+400;1;500;5236;s pra lembrar no final desse filme agente morre
+401;4;200;5182
+402;1;200;5237;Fui pro cinema pra beijar  mas acabei tendo que ver o pior filme da minha vidaaaaaaa! #LevaNaBoa https://t.co/sw0RbHJVVf
+403;1;300;5238;Eu tenho uma politica bem reciproca..se for legal cmg eu sou legal com vc  caso contrario nuo fale cmg :)
+404;1;500;5239;perdido em marte https://t.co/XJ1IG6I7TN
+405;1;500;5240;Tava querendo assistir um filme
+406;4;200;5095
+407;1;400;5241;RT @cartacapital: Pr-sal: Congresso libera multinacionais para explorar sem a Petrobras - https://t.co/mIjQFnkAHd #PreSal https://t.co/QALOCa
+408;1;300;5242;RT @juliococielo: OLHA O VIDEO NOVO!!! CLICHeS DE FILME ROMeNTICO: https://t.co/xBz1vZyRrT 2 mil rts fariam meu dia lindo On A
+409;1;300;5243;AaBrasileiruo OiUIntervalo!oSport 1x1 Suo Paulo.OUD. Souza // T. Mendes.oGuia do Futebol: https://t.co/5DytQweBMn
+410;4;300;5163
+411;1;500;5244;@L97JJ vamo assistir rambo programado pra matar eu semprw choro mt nesse filme viado ataca a sinusite
+412;1;200;5245;Via Estaduo: PF indicia Lula e cita propina de R$ 31 mi a empresa de sobrinho -  https://t.co/OZnwPiMqKN
+413;1;100;5246;RT @honoratoojr: S um maluco deixaria de assistir o famigerado futebol de quarta-feira  pra assistir the voice Brasil.
+414;5;100
+415;1;300;5247;futebol na quadra nova fico maneiro hoje
+416;1;100;5248;Gostei de um vdeo @YouTube de @juliococielo https://t.co/99A0izipRS CLICHeS DE FILME ROMeNTICO
+417;5;300
+418;5;300
+419;1;300;5249;Foi o melhor filme od Hitchcock que eu assisti  achei at melhor que psicose e vertigo
+420;4;200;5039
+421;1;400;5250;agora vou acabar de ver um filme
+422;1;300;5251;RT @daysofmarlon: Oi quando vamos assistir aquele filme O curioso caso de beijaminha bok ??
+423;1;500;5252;Diego sempre teve futebol pra jogar em nvel europeu mas ele mesmo sempre se complicou..
+424;4;200;5018
+425;4;100;5198
+426;1;200;5253;RT @SeriesBrazil: Pster de LOGAN  o terceiro filme do Wolverine.Estreia no Brasil em 02 de maroo de 2017. https://t.co/uByJUOL4za
+427;1;500;5254;RT @NPTO: A conta que todo mundo estava procurando https://t.co/Q5MhSmyrZS
+428;1;400;5255;Tantos adolescentes triste por nuo ter mais jogo de futebol  isso vai votar no 15 yy
+429;1;300;5256;RT @zuadorcitou: A culpa  das estrelas  aquele filme  que te faz pensar em dar mais valor a quem esti do seu lado
+430;4;400;5100
+431;1;400;5257;vou fazer um filme da minha vida.... efeito borboleta 2
+432;1;300;5258;Magnago nunca posta nada de politica  desde a treta do ifes ele ja comeoou a fazer principios de textao
+433;4;100;5026
+434;5;500
+435;5;100
+436;4;300;5217
+437;1;100;5259;Suo Paulo Futebol Clube ya
+438;4;400;5202
+439;1;300;5260;RT @VersosCruzeiro: QUARTA E QUINTA DIAS DE FUTEBOL /// MAS NAO TEM CRUZEIRO https://t.co/C3VdYOgGSf
+440;1;100;5261;SIM GENTE!!!!!!! https://t.co/tV6gUbXpru
+441;5;500
+442;5;400
+443;4;300;5174
+444;1;300;5262;Meu irmuo colocou num filme de terror. ESSA HORA. Como eu durmo depois?
+445;1;400;5263;RT @SemClubismo_FC: Jean Chera anunciando a volta ao futebol um ms antes do ENEM. Tremeu.
+446;5;500
+447;1;500;5264;Gostei de um vdeo @YouTube de @desimpedidos https://t.co/hHzCMUxXWm TOP 10 - NOJEIRAS DO FUTEBOL - FRED +10
+448;4;500;5008
+449;1;500;5265;Muito menos filme sobre culiniria
+450;4;400;5052
+451;1;400;5266;RT @saopower: venho compartilhar a minha indignaouo por essa quarta feira de futebol onde o mesmo nuo esti sendo transmitido em tv aberta OCa
+452;1;400;5267;RT @FL13_2000: Vamos marcar um dia pra assistir filme e nuo prestar atenouo no filme?
+453;1;400;5268;RT @Esseteucu: A vida n  um filme porno n fofas infelizmente
+454;5;100
+455;1;200;5269;s pra lembrar no final desse filme  a gente morre
+456;1;200;5270;Meu tbmmmm https://t.co/EWwYPxFPYn
+457;1;200;5271;Gostei de um vdeo @YouTube de @juliococielo https://t.co/mYmrBd15hX CLICHeS DE FILME ROMeNTICO
+458;4;400;5203
+459;4;500;5222
+460;1;100;5272;Sim  eu levantei da cama para assistir Sport x Suo Paulo. Caralho. Que amor ao futebol!
+461;1;400;5273;Aqui na Iguatama eu vou receber em dia e terei todas as condioAes de trabalho e mostrar meu futebol Palavras de @Danilosousa_3
+462;5;300
+463;1;100;5274;Gostei de um vdeo @YouTube de @juliococielo https://t.co/h6Mst2gwFi CLICHeS DE FILME ROMeNTICO
+464;1;100;5275;RT @luscas: outro filme do wolverine? ngm aguenta mais bicho manda um da tempestade ou da jean https://t.co/2XQtC77zaS
+465;1;200;5276;Ei Hudson...menos foto de cueca e mais futebol ....
+466;1;100;5277;Futebol - A Visuo do Torcedor: 29 Rodada do Brasileiruo 2016 - Corinthians X At. Mineiro: https://t.co/MAGI1gzlf4 @ale_espn @10neto
+467;1;500;5278;RT @Oledobrasil: Voc sabe que a fase do futebol brasileiro esti ruim quando a emissora prefere passar um reality show musical em vez do coOCa
+468;1;100;5279;RT @velhocronista: Em vez de jogo  The Voice.Em vez de Atletiba  Andrea Bocelli.O futebol esti perdendo terreno para todas as formas de mOCa
+469;1;100;5280;@JuuhLopes157  se tu nuo tiver um parto na hr do filme de boa #PAGOFUNKSRSvsRDC (08/10) AAU12uCiaAaAyeiOi
+470;1;400;5281;RT @perryxotta: 17- Juntos Pelo AcasoOCo eu me divirto muito vendo esse filme jenej a histria  bem legal https://t.co/p4d3RIa3kd
+471;1;400;5282;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+472;1;100;5283;Gente esse filme ele esta de volta (hitler)  muito bom
+473;4;200;5268
+474;5;200
+475;4;500;5198
+476;1;400;5284;RT @juliococielo: OLHA O VIDEO NOVO!!! CLICHeS DE FILME ROMeNTICO: https://t.co/xBz1vZyRrT 2 mil rts fariam meu dia lindo On A
+477;5;300
+478;1;100;5285;vcs que ficam narrando o futebol t aqui pra narrar o the voice br
+479;5;500
+480;4;100;5271
+481;4;200;5194
+482;1;400;5286;RT @_docedejambo: imagina que coisa maravilhosa seria uma cama quentinha  com uma pessoa maravilhosa  com um filme timo e varias besteirasOCa
+483;5;200
+484;1;400;5287;@Jvt_OTricolor futebol ta mt fresco
+485;4;200;5268
+486;5;100
+487;1;300;5288;Gostei de um vdeo @YouTube de @juliococielo https://t.co/9WN15b1b2X CLICHeS DE FILME ROMeNTICO
+488;1;100;5289;Que Horas Ela Volta? com atriz Regina Cas  eleito o melhor filme do ano - https://t.co/Xhv5O5bxRA https://t.co/T7cJqHSfJa
+489;1;200;5290;How to get away with murder  que seriado meus amigos! Assistam.
+490;1;100;5291;@rafhaelcarol eu concordo com vc  mas com o galo sempre sofremos at o final. E no futebol tudo  possvel  entuo n vejo pq desacreditarmos
+491;4;200;5199
+492;1;500;5292;Duff e  Divergente #ARIASONEDIRECTION https://t.co/jkXrsJoAQR
+493;1;500;5293;Kalil entende de futebol. O Nepomuceno embora contrate at melhor q o Kalil  o Kalil nuo dava passo em falso sabiaOCa https://t.co/OJaYUAJPUF
+494;4;400;5209
+495;4;400;5222
+496;4;300;5163
+497;1;300;5294;RT @perryxotta: 55- Eu Queria Ter a Sua VidaOCo tem mt putaria uebsjd mas  um filme daora eles trocam de corpos bem loco https://t.co/PQ2ATOCa
+498;1;500;5295;Vou ver filme e depois dormir
+499;5;100
+500;1;400;5296;O futebol  apaixonante. https://t.co/xkgaltprSp
+501;5;500
+502;1;500;5297;@NathComH como assim a melhor parte do filme  ele solando
+503;4;100;5023
+504;5;500
+505;1;400;5298;Gostei de um vdeo @YouTube de @juliococielo https://t.co/w9gYYwZ23Y CLICHeS DE FILME ROMeNTICO
+506;4;100;5099
+507;1;300;5299;RT @velhocronista: Em vez de jogo  The Voice.Em vez de Atletiba  Andrea Bocelli.O futebol esti perdendo terreno para todas as formas de mOCa
+508;1;300;5300;Gostei de um vdeo @YouTube de @juliococielo https://t.co/dtDsTiHHgU CLICHeS DE FILME ROMeNTICO
+509;1;400;5301;RT @SemClubismo_FC: Jean Chera anunciando a volta ao futebol um ms antes do ENEM. Tremeu.
+510;1;100;5302;RT @cartacapital: Pr-sal: Congresso libera multinacionais para explorar sem a Petrobras - https://t.co/mIjQFnkAHd #PreSal https://t.co/QALOCa
+511;5;400
+512;1;100;5303;Carlinhos recebe pelo meio  avanoa e chuta de fora da irea  a esquerda do gol do Sport  sem perigo. #tr https://t.co/p62VTPk0wM
+513;5;500
+514;5;100
+515;1;200;5304;Set zoada pela futura namorada por causa de filme de terror  algo tenso
+516;1;100;5305;Um filme top que ti no cinema??????Help friends
+517;5;500
+518;1;300;5306;MAS QUE CARALHO KKKKKKKK https://t.co/bNdSqAhBU6
+519;1;100;5307;Kelvin porraCad seu futebol caralho?????
+520;1;300;5308;na vdd eu queria assistir um filme do wes mas acho q nessas conjunturas eu s vou ficar mais pra baixo
+521;4;300;5247
+522;5;400
+523;1;100;5309;@RedeGlobo volta o @TheVoiceBrasil para quinta porque a Quarta o Futebol  sagrado!
+524;5;500
+525;1;200;5310;Amanhu vou botar futebol  hquei no gelo  vlei  tnis  a porra toda....
+526;1;100;5311;Quarta-feira e tiraram o futebol pra passar The Voice. 7 X 1 foi muito  mas muito pouco mesmo.
+527;5;100
+528;1;400;5312;Pior coisa  assistir um filme triste com sua melhor amiga e ti morrendo de vontade de chorar e nuo pode  s pra ela nuo pergunta o motivo
+529;4;400;5098
+530;1;200;5313;Gostei de um vdeo @YouTube https://t.co/6GabobNnwY - Prova Filme Mudo - #MalenIsa
+531;1;200;5314;S vou dormi depois de ver o filme
+532;4;400;5178
+533;1;300;5315;RT @adorocinema: O Amor de Catarina: Novo filme com @Kefera (sim  outro!) seri lanoado na arena AdoroCinema da DSX https://t.co/AYgxOgoMA1
+534;1;200;5316;Bah  preciso de um resumo do Filme Asterix e Obelix pra amanhu Oa
+535;1;200;5317;Pra comeoar a entender | A metamorfose do eleitor petista da periferia que decidiu votar em Doria: https://t.co/sIbnAU9ckj
+536;4;200;5258
+537;1;400;5318;COMO QUE EU VOU DORMIR DEPOIS DE LER ISSO E SABER QUE AMANHA NAO SERA O MESMO? https://t.co/JoZ7KjUtzr
+538;4;100;5081
+539;1;200;5319;Karamoko Dembele  a prxima celebridade do futebol? https://t.co/ueysztvNvZ
+540;4;400;5194
+541;4;400;5242
+542;1;400;5320;O Buffarini nuo tem muito futebol  mas o cara nuo desliga  maluco. Meu Deus.
+543;5;200
+544;1;300;5321;Japuo entendi e de brinquedo futebol n
+545;5;400
+546;1;200;5322;RT @ugospfc: the voice  o caralho  hoje  dia de futebol
+547;4;100;5259
+548;1;500;5323;Temer elogia ACM Neto e Geddel durante entrevista https://t.co/enkFOh5Kkl
+549;1;200;5324;Ano passado o melhor futebol era o do Santos e s dormimos no G4  e esse ano chegamos na cagada
+550;1;500;5325;Vai ter cinema ao ar livre no Ibirapuera   vai passar tanto filme legal.. ji quero ir e levar o Enzo!!
+551;1;300;5326;RT @NetflixBrasil: Thais Cabral e Paulo Gorgulho vuo estrelar O Matador  primeiro filme original brasileiro. No elenco tem Mayte PiragOCa
+552;1;500;5327;RT @legado_da_copa_: LEMBRANDO QUE O LEGADaO e Fa DO FUTEBOL DE PERNAMBUCO
+553;4;100;5156
+554;1;300;5328;How to get away with murder  que seriado meus amigos! Assistam.
+555;4;100;5241
+556;4;400;5016
+557;5;500
+558;1;400;5329;Gostei de um vdeo @YouTube de @juliococielo https://t.co/2NhOg9GWAB CLICHeS DE FILME ROMeNTICO
+559;1;200;5330;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+560;1;400;5331;Esse futebol de hoje cansou demaiss
+561;1;200;5332;Me Before You   um filme que nuo da pra enjoar
+562;1;100;5333;RT @transviando: Que  mais ficil encontrar uma mulher branca num cargo importante  protagonista num filme  num espaoo acadmico do que umOCa
+563;1;300;5334;Gostei de um vdeo @YouTube de @juliococielo https://t.co/xp0q0gFqCA CLICHeS DE FILME ROMeNTICO
+564;1;500;5335;RT @ziamcabeyos: o famoso gol contra kjkgkfkjf parece eu https://t.co/qnSJ2JzW51
+565;1;500;5336;Assistimos um filme muito engraoado mais esqueci o nome hahaha
+566;1;200;5337;RT @xcbjr: tem tubaruo no filme ji sei que  uma merda
+567;1;500;5338;RT @SemClubismo_FC: Jean Chera anunciando a volta ao futebol um ms antes do ENEM. Tremeu.
+568;1;100;5339;RT @wsantarem_: A @Kefera vai gravar outro filme agora em novembro e no final de outubro lanoa o que ela ji fez a muito tempinho atris O aOCa
+569;4;200;5003
+570;1;300;5340;Esse bixo n desiste kkk https://t.co/XdooiSAlSM
+571;1;100;5341;RT @McEstudante: Parece meu dedo depois do futebol ela
+572;1;100;5342;RT @Maiabeaa: Como eu era antes de voc On https://t.co/9zuK3czGTt
+573;1;200;5343;meu filme c quem??kkkk https://t.co/gAxcHgjg3c
+574;5;500
+575;5;300
+576;1;500;5344;Vai ter cinema ao ar livre no Ibirapuera   vai passar tanto filme legal.. ji quero ir e levar o Enzo!!
+577;1;100;5345;boa noite s p quem chorou vendo o filme do Corinthians
+578;4;100;5014
+579;1;400;5346;Pra olhar um filme nesse exato momento  qual escolheria?
+580;5;200
+581;1;100;5347;Gostei de um vdeo @YouTube de @omelete https://t.co/covvpwGt4a Wolverine 3: primeiro pster revela segredo do filme?
+582;1;200;5348;RT @_isarmcf: n gosto de futebol mesmo
+583;1;200;5349;RT @AbdoChalub: DEVIAM BANIR ESCANTEIO CURTO DO FUTEBOL MUNDIAL
+584;5;500
+585;1;200;5350;RT @neymarjr: Assistindo #Filme e passando #Frio.. nessas horas uma namorada faz falta =/
+586;5;200
+587;1;400;5351;@OdeioMimimi ele mesmo deixou claro que o impeachment foi manobra por divergencia politica. Entuo foi ilegtimo.
+588;4;400;5071
+589;1;200;5352;RT @cartacapital: Pr-sal: Congresso libera multinacionais para explorar sem a Petrobras - https://t.co/mIjQFnkAHd #PreSal https://t.co/QALOCa
+590;1;400;5353;e alm do filme ser bom  a gente saiu do cinema e estava tendo um stand up com o diogo portugal de graoa na irea de alimentaouo velho
+591;1;300;5354;Populaouo protesta contra aumento de salirio de vereadores de Quixeramobim em sessuo da Comara https://t.co/1fLJkPlSKn
+592;1;500;5355;#SemBadNaMafiaSdv Me chama pra assistir um filme em casa  eu faoo o brigadeiro e voc faz a  pipoca...
+593;4;400;5318
+594;1;300;5356;Adicionei um vdeo a uma playlist @YouTube https://t.co/8vheBNuyCWeS DE FILME ROMeNTICO
+595;1;500;5357;RT @cartacapital: Pr-sal: Congresso libera multinacionais para explorar sem a Petrobras - https://t.co/mIjQFnkAHd #PreSal https://t.co/QALOCa
+596;1;300;5358;preciso ver um filme ali  pra prova de amanhu   anem que saco viuuuuuuuu
+597;5;200
+598;1;500;5359;Gostei de um vdeo @YouTube de @juliococielo https://t.co/0KRMaaBEYK CLICHeS DE FILME ROMeNTICO
+599;1;300;5360;faz tanto tempo que nuo assisto #ARIASJUSTINBIEBER https://t.co/rZM9V2IazJ
+600;1;500;5361;Vou assistir um filme no not yA
+601;4;300;5237
+602;1;100;5362;@GuiIhermee_  o jogador de futebol pode xinga de viado suavidade total
+603;1;400;5363;RT @wsantarem_: A @Kefera vai gravar outro filme agora em novembro e no final de outubro lanoa o que ela ji fez a muito tempinho atris O aOCa
+604;4;300;5344
+605;5;200
+606;1;200;5364;Pelo menos ta passando filme bom no Megapix
+607;1;300;5365;iamo esse filmei https://t.co/FDF88Ketey
+608;1;100;5366;RT @69secsu: DEIXA DE PASSAR FUTEBOL PRA PASSAR PORRA DE THE VOICE BRASIL  VAI TOMAR NO CU  GLOBO
+609;1;200;5367;Falar com meu pai enquanto ele ti vendo futebol  a mesma coisa que falar sozinha. Ele xinga a TV  sai da sala  e nada de me responder ya
+610;1;100;5368;RT @veramagalhaes: Que furaoo do @filipecoutinho! E que baita reportagem. Leiam. https://t.co/mBr8DIe4H0
+611;1;100;5369;RT @cartacapital: Pr-sal: Congresso libera multinacionais para explorar sem a Petrobras - https://t.co/mIjQFnkAHd #PreSal https://t.co/QALOCa
+612;4;200;5312
+613;1;100;5370;todo exagerado nisso eu sei que sou   que minha vontade hoje  te chamar de MEU AMOR https://t.co/V2AQXlDE2y
+614;4;400;5133
+615;4;100;5196
+616;1;300;5371;RT @antiscabeyo: 2.  Existem mais de mil garrafas na sala de pooAes  todas rotuladas  at as pequenas e nuo visveis nas cenas do fiOCa
+617;1;200;5372;@Jbsssouza nada a ver com o filme .
+618;1;500;5373;mas qnd assisto nuo  aquela coisa toda   normal  mas nem por isso fico desmerecendo o filme nem quem curte ele  isso  ridculo
+619;1;100;5374;RT @cartacapital: Pr-sal: Congresso libera multinacionais para explorar sem a Petrobras - https://t.co/mIjQFnkAHd #PreSal https://t.co/QALOCa
+620;1;500;5375;@avilaleo_ reclama que as pessoas narram filme mas ce narra jogo ne kkkk
+621;1;300;5376;@lilibruski n  msica! e do filme 10 coisas que eu odeio em voc
+622;4;400;5104
+623;1;500;5377;@timaoeeoo futebol americano tem muito mais contato e nuo tem tantos erros quanto o nosso futebol.
+624;4;200;5297
+625;1;100;5378;Ainda bem que aqui nuo tem globo https://t.co/sMaRbwp7O4
+626;5;200
+627;1;200;5379;Gostei de um vdeo @YouTube https://t.co/p1cy0dv47F - Prova Filme Mudo - #MalenIsa
+628;5;200
+629;4;200;5120
+630;1;300;5380;https://t.co/zztLqmJx7K ji  alguma mudanoa  espero que seja definitiva  iri com certeza desafogar o #STF e trazer maior velocidade a #Lei
+631;1;400;5381;@EuMarcioB voc falou que no seu vdeo  sua namorada nuo gosta de filmes romonticos entuo. De que filme ela gosta? yu
+632;1;100;5382;perdido em marte https://t.co/XJ1IG6I7TN
+633;1;500;5383;RT @cara_lay1: @AfterSpoiler quero logo esse filme tenho que aliviar meu vicio kkkk
+634;5;300
+635;4;300;5274
+636;4;300;5002
+637;4;200;5312
+638;5;500
+639;1;400;5384;novo episdio de GITH  gente  que saudade que eu tava  ji quero o filme!!!! #GITH
+640;1;500;5385;RT @TucanoVermelho: #CrianoaFeliz Marcela Temer de azul e Temer congelando educaouo e sade por 20 anos  filme: Frozen Uma Aventura CoOCa
+641;4;200;5122
+642;5;300
+643;1;500;5386;@MathheusAugusto @Lucas_silva605  eu nem como mesmo   q filme?
+644;4;200;5181
+645;1;200;5387;RT @SemClubismo_FC: Gostaria de dizer que a Rede Globo  grande apoiadora do nosso futebol (risos)  resolveu passar o The Voice ao invs doOCa
+646;1;200;5388;@AlvezIury esse filme aqui  bolado p  fala do xarpi carioca https://t.co/V0QKYYBt5X
+647;4;100;5275
+648;4;100;5231
+649;5;200
+650;1;100;5389;RT @luscas: outro filme do wolverine? ngm aguenta mais bicho manda um da tempestade ou da jean https://t.co/2XQtC77zaS
+651;1;300;5390;Esse Filme T Ryca e Muitoooo Engraoadoooo yeyeyeyeye
+652;1;300;5391;Ao abenooado que um dia chegou no Rodriguinho e falou mano vc sabe jogar futebol hein cara voc acabou com a minha vida obrigado
+653;4;300;5321
+654;1;500;5392;Momento que vc ta na cama  vendo filme  ji escovou os dentes e vem aquela fome... OMG nuo vou comer pois nuo quero escovar de novo
+655;4;300;5124
+656;1;100;5393;e felicidade demaais saber que teri futebol e vlei no latino americano! S espero poder jogar at li! OAOAOA
+657;1;300;5394;Ao vivo transmissuo da ridio  filme de Suo Benedito i https://t.co/5Il0WPv4gy
+658;1;400;5395;Fim de noite favorivel de futebol
+659;5;400
+660;5;300
+661;5;500
+662;1;200;5396;Gostei de um vdeo @YouTube de @juliococielo https://t.co/2kvgMb289t CLICHeS DE FILME ROMeNTICO
+663;1;500;5397;O Santos nuo encanta mais. e un futebol burocritico  chato.
+664;1;500;5398;Gosto mt do futebol do Diego Souza namoral
+665;4;100;5030
+666;5;500
+667;5;400
+668;4;200;5175
+669;1;300;5399;Gostei de um vdeo @YouTube de @juliococielo https://t.co/KzuBuMAiLI CLICHeS DE FILME ROMeNTICO
+670;1;100;5400;RT @leticiadlcasado: STJ decide que Assembleia Legislativa de MG vai dizer se governador Fernando Pimentel (PT) vira ru na Acrnimo httpOCa
+671;1;100;5401;RT @camilaa_beckeer: os cara tira futebol p passar the voice  pelo amorrr
+672;1;300;5402;Gostei de um vdeo @YouTube de @desimpedidos https://t.co/hHzCMUxXWm TOP 10 - NOJEIRAS DO FUTEBOL - FRED +10
+673;5;300
+674;1;400;5403;Gostei de um vdeo @YouTube de @juliococielo https://t.co/UGRdZUIaKD CLICHeS DE FILME ROMeNTICO
+675;4;300;5294
+676;1;400;5404;Queria ti de boas com meu gato agora assistindo um filme y
+677;4;500;5053
+678;1;400;5405;RT @handstomccall: 13. quando eu to assistindo filme com alguem e a pessoa fica mexendo no celular/perguntando oq ti acontecendo no filme oOCa
+679;4;400;5295
+680;1;100;5406;RT @Picharillo77: Via Estaduo: PF indicia Lula e cita propina de R$ 31 mi a empresa de sobrinho -  https://t.co/1jIn4mrDMI
+681;5;100
+682;1;400;5407;Santos Futebol Clube 2-1 Fluminense49' Copete (Santos)65' Wellington Silva (Fluminense)80' Ricardo Oliveira... https://t.co/77ovrtUfnb
+683;4;500;5369
+684;1;400;5408;@lauroaires ficamos 60 minutos sem jogar futebol. O dia que o levir enxergar que o Mjr nuo pode jogar entre os zagueiros o time melhora.
+685;1;400;5409;Nuo sei pra que voltei acompanhar futebol
+686;4;400;5157
+687;1;200;5410;RT @SemClubismo_FC: Gostaria de dizer que a Rede Globo  grande apoiadora do nosso futebol (risos)  resolveu passar o The Voice ao invs doOCa
+688;1;400;5411;RT @FutNaRedonda: Futebol tambm tem dessas  amigos... https://t.co/cgywFsDUAt
+689;1;100;5412;Essa vida de precisar ir dormir ao invs de poder ver seriado...
+690;4;100;5107
+691;5;500
+692;4;200;5403
+693;1;500;5413;Meu garoto https://t.co/UvHPvUDsTC
+694;4;100;5061
+695;4;100;5268
+696;1;100;5414;RT @SemClubismo_FC: Gostaria de dizer que a Rede Globo  grande apoiadora do nosso futebol (risos)  resolveu passar o The Voice ao invs doOCa
+697;1;300;5415;Globo passando the voice em plena quarta feira de futebol  mundo esti perdido
+698;4;500;5395
+699;1;400;5416;RT @_docedejambo: imagina que coisa maravilhosa seria uma cama quentinha  com uma pessoa maravilhosa  com um filme timo e varias besteirasOCa
+700;1;200;5417;Filme do Eminem e do Big  massa
+701;4;300;5047
+702;4;300;5198
+703;1;400;5418;Gostei de um vdeo @YouTube https://t.co/VE0YXJNvVN - Prova Filme Mudo - #JaimeLira
+704;4;200;5376
+705;5;500
+706;1;400;5419;RT @neymarjr: Assistindo #Filme e passando #Frio.. nessas horas uma namorada faz falta =/
+707;1;500;5420;RT @SemClubismo_FC: Jean Chera anunciando a volta ao futebol um ms antes do ENEM. Tremeu.
+708;1;200;5421;Logo agora que eu tava querendo focar no futebol  voltar a treinar  e vem isso  pqp
+709;4;100;5151
+710;4;200;5239
+711;1;100;5422;#Vamos pra frente  goianienses! Vamos eleger @Vanderlan40 com uma belssima maioria de votos!!! https://t.co/SS2dmobm3E
+712;4;300;5234
+713;1;100;5423;Por que a Glbulo nuo ti passando futebol nessa quarta?
+714;1;500;5424;Meninas acreditem  o sonho de todo homem  achar uma mina que ama futebol e video game e que seja maluca kkkkkkkkkk
+715;5;100
+716;1;300;5425;@TheVoiceBrasil  show  mas  brabuo ficar sem o futebol de quarta feira  nem parece quarta feira kkkk
+717;1;200;5426;Vi um filme de quase 3 hrs hoje e posso dizer q foi o melhor q eu ja tinha visto em 21 anos de vida
+718;1;200;5427;RT @BuffariniSPFC: FODA-SE THE VOICE HOJE e QUARTA FEIRA LOTEM O TWITTER DE FUTEBOL
+719;1;500;5428;Gostei de um vdeo @YouTube de @juliococielo https://t.co/SRfdxD1iOb CLICHeS DE FILME ROMeNTICO
+720;1;500;5429;Acabei de ver #thisistheend e... QUE FILME  INSANO!!!! QUE ELENCO e ESSE??? On
+721;1;100;5430;RT @honoratoojr: S um maluco deixaria de assistir o famigerado futebol de quarta-feira  pra assistir the voice Brasil.
+722;1;100;5431;gosto dos dois OnOn https://t.co/bfPvb5wA2Q
+723;5;300
+724;4;400;5360
+725;1;400;5432;futebol https://t.co/7iTlKKLlIp
+726;1;200;5433;@galonews_  o empate ficou de bom tamanho mas o galo nesse jogo deveu futebol.
+727;4;400;5160
+728;4;200;5169
+729;4;500;5338
+730;1;200;5434;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+731;4;200;5385
+732;1;200;5435;@CunhaDayanesc miga  um Conselho ESQUECE FUTEBOL PQ SO VAI TE DEIXAR PIOR
+733;4;500;5386
+734;1;400;5436;RT @larrydetetive: Segundo o treinador do Harry para o filme Dunkirk  o Harry consegue puxar 226 quilos numa corda com apenas a parte superOCa
+735;4;100;5288
+736;4;300;5134
+737;4;100;5120
+738;4;500;5045
+739;5;400
+740;1;100;5437;RT @NPTO: A conta que todo mundo estava procurando https://t.co/Q5MhSmyrZS
+741;1;500;5438;RT @BuffariniSPFC: FODA-SE THE VOICE HOJE e QUARTA FEIRA LOTEM O TWITTER DE FUTEBOL
+742;4;400;5073
+743;1;300;5439;Karamoko Dembele  a prxima celebridade do futebol? https://t.co/ueysztvNvZ
+744;4;500;5191
+745;1;200;5440;Quarta-feira: com dor de cabeoa  calor e tdio  sem dinheiro e sem computador... nuo satisfeito NaO TEM FUTEBOL NA TV HOJE
+746;1;400;5441;@pfvrthuanny esse filme  lindo
+747;1;200;5442;RT @SCSaoPauloRS: 108 anos de futebol popular  vestido em encarnado e verde! #SCSP108anos https://t.co/SnNk5nmvwT
+748;1;100;5443;esse filme  tao incrvel (o livro tb) https://t.co/CwqrtJdjbv
+749;4;400;5199
+750;1;500;5444;tem tubaruo no filme ji sei que  uma merda
+751;4;100;5106
+752;5;400
+753;1;300;5445;RT @juliococielo: OLHA O VIDEO NOVO!!! CLICHeS DE FILME ROMeNTICO: https://t.co/xBz1vZyRrT 2 mil rts fariam meu dia lindo On A
+754;4;500;5147
+755;1;500;5446;Menor publico e baixando  enquanto essa diretoria estiver ai e esse.time jogando esse futebol vai ser dai pra pior https://t.co/5PIG4V0JIB
+756;4;200;5363
+757;5;400
+758;5;400
+759;1;100;5447;RT @NPTO: A conta que todo mundo estava procurando https://t.co/Q5MhSmyrZS
+760;1;500;5448;RT @joaocluuz: @pvillacha falou tudo  por isso morro c 20 minutos de futebol  ou bebo ou jogo yeye
+761;1;100;5449;RT @unlocked___: eu sei la#ARIASJUSTINBIEBER https://t.co/am8ASWy9nc
+762;4;500;5318
+763;4;400;5338
+764;5;200
+765;1;300;5450;RT @migasuafalsa: porque voc gosta de filme de animaouo https://t.co/Rq5bi98DFi
+766;1;100;5451;RT @figueiradepre: Se o Jean Chera nuo desiste de ser jogador de futebol  entuo pq eu iria desistir de voc? Te amo  linda.
+767;1;100;5452;Corinthians x Atltico-MG - Campeonato Brasileiro 2016 - Ao vivo - https://t.co/AtCIJR4wES #tr https://t.co/QzRiTfpb9c
+768;5;300
+769;4;200;5312
+770;1;100;5453;se depois de cosm  cesar award  filme com o woody  trs filmes no nyff a kristen nuo ganhar uma indicaouo ao oscar OCa https://t.co/mocR2AVGxY
+771;1;500;5454;Fui pro cinema pra beijar  mas acabei tendo que ver o pior filme da minha vidaaaaaaa! #LevaNaBoa https://t.co/0kMVKTweOK
+772;4;300;5097
+773;5;300
+774;1;400;5455;Tava desacreditando do amor  quando de repente num olhar o meu mundo parou  parecia filme  coisa de cinema  mas at que enfim voc chegou AA
+775;4;500;5259
+776;1;200;5456;Gostei de um vdeo @YouTube de @juliococielo https://t.co/aLUP8nwyP9 CLICHeS DE FILME ROMeNTICO
+777;1;300;5457;Nuo sei se vou estar viva a tempo pro meu aniversirio dia 18.. Vcs sabem n dia 10 vai te mais tiro q filme do NichOCa https://t.co/9bne7nNHuZ
+778;4;200;5310
+779;4;500;5110
+780;1;400;5458;RT @velhocronista: Em vez de jogo  The Voice.Em vez de Atletiba  Andrea Bocelli.O futebol esti perdendo terreno para todas as formas de mOCa
+781;5;100
+782;4;200;5093
+783;1;500;5459;N JOGOU PORRA NENHUMA https://t.co/Vy9CYxtX8D
+784;1;200;5460;RT @CarvalhoSuzete: Polcia poltica tucana abre outra frente d perseguiouo a Lula:SOBRINHO=F DO IRMaO DA EX-MULHER FALECIDA Hu 30 ANOS htOCa
+785;1;200;5461;Na moral  que golaoo do Diego Souza  sou muito fu do futebol desse cara
+786;1;400;5462;Gostei de um vdeo @YouTube de @juliococielo https://t.co/TjpFltFUks CLICHeS DE FILME ROMeNTICO
+787;1;500;5463;RT @steverodgerz: globo deixando de transmitir o sagrado futebol pra passar the voice ji pode vir fim dos tempos
+788;5;500
+789;1;100;5464;Anjos da noite vai ter mais um filme? E isso mesmo produouo? Nuo creio AAAAAAA
+790;1;500;5465;Gostei de um vdeo @YouTube de @desimpedidos https://t.co/GT7Jq66EKH TOP 10 - NOJEIRAS DO FUTEBOL - FRED +10
+791;4;500;5241
+792;1;100;5466;Gostei de um vdeo @YouTube de @juliococielo https://t.co/rnpywlIeSl CLICHeS DE FILME ROMeNTICO
+793;1;500;5467;RT @flamengoretro: O futebol  apaixonante. https://t.co/xkgaltprSp
+794;1;200;5468;@REGINALDOdeLEME CHORO DE PERDEDOR BUAAAAAAAAA  KKKKKKK https://t.co/PdTt8h3SrR
+795;1;300;5469;A Esquerda nuo pode perder o Centro https://t.co/lgbItX1WXh via @ConversaAfiada
+796;1;400;5470;Gostei de um vdeo @YouTube https://t.co/fGtYaE4hV5 - Prova Filme Mudo - #JaimeLira
+797;4;500;5192
+798;4;400;5174
+799;1;200;5471;O gol anulado nuo pode ser desculpa pelo futebol apresentado pelo Timuo  mas o Corinthians foi prejudicado pela 4x https://t.co/zwGjrxN9Hb
+800;5;200
+801;4;200;5215
+802;1;200;5472;FODA-SE THE VOICE HOJE e QUARTA FEIRA LOTEM O TWITTER DE FUTEBOL
+803;1;200;5473;Seri que ti passando futebol ?
+804;1;500;5474;Gostei de um vdeo @YouTube de @juliococielo https://t.co/oswC5OXFep CLICHeS DE FILME ROMeNTICO
+805;1;400;5475;RT @69secsu: DEIXA DE PASSAR FUTEBOL PRA PASSAR PORRA DE THE VOICE BRASIL  VAI TOMAR NO CU  GLOBO
+806;1;500;5476;EITAAA QUE ESSE FILME Tu QUE Tu https://t.co/kdZzxAV1l8
+807;1;100;5477;Ei Hudson...menos foto de cueca e mais futebol ....
+808;1;400;5478;RT @leticiadlcasado: STJ decide que Assembleia Legislativa de MG vai dizer se governador Fernando Pimentel (PT) vira ru na Acrnimo httpOCa
+809;5;400
+810;5;500
+811;1;100;5479;E o filme ? KKKKKKKKKKKKK
+812;1;300;5480;RT @conexaopoIitica: REDE de Marina Silva  arrasta PT e PSTU em apoio a Freixo no Rio. Marina Silva nuo engana a mais ningum! https://t.coOCa
+813;4;400;5282
+814;4;200;5175
+815;1;200;5481;Gostei de um vdeo @YouTube de @desimpedidos https://t.co/WaHvoqCtCA TOP 10 - NOJEIRAS DO FUTEBOL - FRED +10
+816;4;200;5385
+817;1;200;5482;RT @zelune: @luscas sei la cara ti escrito logan vai que  um filme sobre aquele carro da renault
+818;1;400;5483;RT @rapfalando: fala seus trata religiuo como politica  politica como futebol e futebol como religiuo
+819;5;500
+820;4;100;5470
+821;5;300
+822;1;200;5484;RT @juliococielo: OLHA O VIDEO NOVO!!! CLICHeS DE FILME ROMeNTICO: https://t.co/xBz1vZyRrT 2 mil rts fariam meu dia lindo On A
+823;1;500;5485;RT @lorranibrehm: @lorranibrehm pq seri que eu nuo assisto filme de terror https://t.co/U22hQPR0QZ
+824;1;400;5486;RT @VersosCruzeiro: QUARTA E QUINTA DIAS DE FUTEBOL /// MAS NAO TEM CRUZEIRO https://t.co/C3VdYOgGSf
+825;1;400;5487;RT @lkantunes: Eu gosto de sair sozinha  assistir filme sozinha  comprar roupa sozinha  porque eu posso ser eu mesma
+826;4;100;5396
+827;1;400;5488;Que filme mais louco
+828;1;500;5489;RT @matinecinetv: Logan.Este  o nome do ltimo filme de @RealHughJackman como Wolverine. O filme chega aos cinemas em 3 de Maroo dOCa
+829;5;300
+830;1;400;5490;Amanhu estreia o filme da fadona. yiy
+831;1;500;5491;Minha mue olhou o  jogo do grmio deu cada grito parece que ela super entende de futebol
+832;1;200;5492;@loohbastos14 osh fui no cinema ue assistir um filme de boas e tinha ilcool li s
+833;1;500;5493;eu sou a unica pessoa q eu conheoo no mundo que ainda vai ate a locadora pra alugar filme
+834;1;300;5494;@willsandrini em outros esportes  jogadores tm essa atitude  no futebol   algo raro  por isso citei. Abraoo
+835;1;100;5495;caralhooo gostei muito do filme !!!!!
+836;1;400;5496;@TozzaFla ainda existe bobo no futebol.
+837;4;400;5074
+838;1;500;5497;RT @FutebolSemGrife: Tudo se desenha pro ttulo do Palmeiras mesmo  pelo menos de momento. https://t.co/jJE4ZzhkTd
+839;4;100;5128
+840;4;500;5236
+841;4;400;5274
+842;4;300;5150
+843;1;400;5498;Bahia Notcias / Esportes / E.C. Vitria / Futebol feminino: Tcnico ... - Bahia Noticias - Samuel Celestino https://t.co/zXWhKAsXqM
+844;1;400;5499;RT @ThinkOfYouZayn: Jack Lowden (ator de Dunkirk) falando sobre a audiouo do Harry para o filme e sobre trabalharem juntos. https://t.co/PgOCa
+845;1;400;5500;Hora de ver um filme para o sono ir chegando
+846;1;200;5501;Quero assistir um filme  mas acordei cedo nuo sei se vou aguentar de sono
+847;4;300;5337
+848;5;500
+849;1;400;5502;ti passando m filme chave no telecine  af
+850;1;300;5503;Quarta-feira  dia de futebol nuo de msica. #informei
+851;4;500;5270
+852;1;100;5504;@25555Gomes Filme maneiro kkkkk
+853;5;100
+854;4;500;5122
+855;4;300;5376
+856;1;300;5505;Esse filme  massa kk
+857;1;400;5506;CLICHeS DE FILME ROMeNTICO https://t.co/VSR3gfQ966 via @YouTube
+858;1;400;5507;Pr-sal: Congresso libera multinacionais para explorar sem a Petrobras - https://t.co/mIjQFnkAHd #PreSal https://t.co/QAL9IyEhQv
+859;1;200;5508;Gostei de um vdeo @YouTube de @juliococielo https://t.co/sGVEpbtmay CLICHeS DE FILME ROMeNTICO
+860;1;500;5509;Um filme top que ti no cinema??????Help friends
+861;1;200;5510;acabou com o time ne diretoria ai esti resposta na arregadaouo e no futebol tambm
+862;1;300;5511;RT @cosme_r10: Futebol ficou manerin
+863;5;300
+864;4;200;5180
+865;4;300;5128
+866;4;400;5207
+867;4;500;5191
+868;1;500;5512;o exorcista https://t.co/KlF2EKyGW8
+869;1;200;5513;RT @raffaolo: as vezes tudo q a gente quer  algm pra ir ver filme de crianoa no cinema e que compreenda meus choros repentinos em cenas trOCa
+870;5;500
+871;5;500
+872;4;100;5300
+873;1;500;5514;RT @annycaroliina: Como  que a globo tira o futebol da quarta pra colocar The Voice?
+874;4;300;5320
+875;1;500;5515;Qual seu gnero de filme favorito? :O OCo Ficouo cientifica https://t.co/P4S6w23hGH
+876;5;400
+877;1;200;5516;Gostei de um vdeo @YouTube de @juliococielo https://t.co/ZZi8HC64GJ CLICHeS DE FILME ROMeNTICO
+878;4;500;5041
+879;4;300;5111
+880;1;100;5517;RT @HeirOfSallazar: T a trs horas tentando achar um filme pra assistir e nada. Algum me ajuda
+881;4;400;5483
+882;4;500;5206
+883;4;400;5063
+884;1;500;5518;@julio_surf faz parte irmao   futebol um tem q perder ne
+885;4;400;5228
+886;1;100;5519;Adicionei um vdeo a uma playlist @YouTube https://t.co/xRBMMIJG1QeS DE FILME ROMeNTICO
+887;1;400;5520;eu so q nem um filme do adam sandler muitas gargalhadas mas fique esperto vai ter uma parte sentimental
+888;1;200;5521;Gostei de um vdeo @YouTube https://t.co/1ihPzUozB8 - Prova Filme Mudo - #MalenIsa
+889;1;200;5522;desistindo do the voice e indo pro filme que zac efron  djj pq isso sim que  apreciar uma beleza
+890;1;500;5523;RT @sau_ivani: Acabei de ver Escondalo! Joaquim Barbosa acobertou Lula no assassinato de Celso Daniel - Clique para ver tambm Oy  https://tOCa
+891;1;200;5524;@MeuTimao O ttulo deveria ser Resposta da Fiel A diretoria achou que ia dar pra manter ingresso caro e pouco futebol at quando?
+892;4;200;5451
+893;4;200;5066
+894;1;400;5525;eu me caguei de medo de vez em quando mas que filme viu
+895;1;200;5526;uma amiga das antiga veio assistir filme comigo  nem sabia que essa amizade era forte assim
+896;1;300;5527;@CunhaDayanesc miga  um Conselho ESQUECE FUTEBOL PQ SO VAI TE DEIXAR PIOR
+897;4;500;5133
+898;5;300
+899;5;300
+900;1;400;5528;Filme bizarruo
+901;1;500;5529;Gostei de um vdeo @YouTube https://t.co/PH5O3ZpEmC - Prova Filme Mudo - #JaimeLira
+902;5;500
+903;5;500
+904;1;400;5530;RT @sau_ivani: Acabei de ver Escondalo! Joaquim Barbosa acobertou Lula no assassinato de Celso Daniel - Clique para ver tambm Oy  https://tOCa
+905;4;300;5448
+906;1;500;5531;@babu_samba @avelino_bego Ele nuo tem futebol para jogar no SP. Aliis  tem virios li assim.
+907;4;200;5094
+908;1;400;5532;RT @ugospfc: the voice  o caralho  hoje  dia de futebol
+909;5;100
+910;5;200
+911;1;400;5533;RT @notniallpsycho: isso nuo  um filme. e A MELHOR OBRA DE ARTE DO MUNDO https://t.co/aXEIzHxdY3
+912;4;200;5228
+913;4;200;5249
+914;4;100;5495
+915;1;100;5534;filho do Wolverine estari em novo filme do heri https://t.co/5zPGPC6KMW
+916;1;100;5535;RT @Cecillia: PF abre inqurito sobre compra de trmicas no governo FHC https://t.co/SEGhwEc1xt
+917;5;200
+918;1;200;5536;@eviedee lembrou demais a marla de clube da luta......so que bem mais bonita pois a marla sempre esti 1 caco no filme
+919;1;100;5537;@DaniAlvesD2 voc  fofo.Paixuo por futebol.
+920;4;100;5241
+921;5;500
+922;4;300;5495
+923;5;500
+924;1;200;5538;Guerra Civil  acho #ARIASJUSTINBIEBER https://t.co/qSLlrgiFBi
+925;4;500;5438
+926;5;100
+927;1;500;5539;RT @_Osblancos: Kaki: Messi  um gnio e Cristiano Ronaldo  o cone do futebol moderno. Dois grandes jogadores. https://t.co/WJdNaBLy9K
+928;4;200;5181
+929;5;400
+930;4;200;5452
+931;5;100
+932;1;300;5540;Muito engraoado quando eu ando na rua e falo sozinha parece que estou em filme/Novela
+933;5;400
+934;1;400;5541;O mau cheiro ji toma conta no meio do mundo. Triste isso.https://t.co/YRKRXFYkls
+935;1;400;5542;Tentando entender esse filme do telecine premium bagulho bizarro
+936;1;100;5543;Querido John https://t.co/gtJflRe6Ry
+937;1;100;5544;RT @simcruzeiro: Desfalcado  a PQP! e foi BENEFICIADO HOJE! ~~&gt 0a0. O desfalcado Galo leva um ponto. #trarenacor #tr https://t.co/416mNlzOCa
+938;1;100;5545;@Alheado esse filme  tuo lindinho
+939;4;100;5498
+940;1;300;5546;venho compartilhar a minha indignaouo por essa quarta feira de futebol onde o mesmo nuo esti sendo transmitido em tv aberta  fim dos tempos.
+941;4;200;5184
+942;1;100;5547;t viciada nessa msica  vi no filme
+943;1;400;5548;Se algum lugar me lembrar  troque de rota  nuo passe li  se um filme me recordar troque o canal   s desligar
+944;4;200;5048
+945;4;400;5228
+946;1;400;5549;eu nuo sei viver sem pll DE VERDADE eu nuo sei o que vai ser da minha vida sem o meu seriado:( Always In My Heart PLL
+947;1;200;5550;RT @SemClubismo_FC: Jean Chera anunciando a volta ao futebol um ms antes do ENEM. Tremeu.
+948;5;300
+949;4;300;5107
+950;5;200
+951;4;100;5048
+952;1;200;5551;Eu fui pra casa dele e a gnt ficou vendo filme a tarde toda
+953;5;100
+954;4;300;5391
+955;1;500;5552;@globoesportecom olha eu no futebol olha eu fora do futebol olha eu no futebol dnv
+956;4;100;5112
+957;1;400;5553;john wick 2 tai um filme que eu to aguardando e MUITO
+958;1;400;5554;RT @BuffariniSPFC: Globo so tirou o futebol pra mostra the voice porque e o Suo Paulo que joga 21h45Se fosse os queridinho dos gamba ia paOCa
+959;1;300;5555;Me acaba de ver seriado  ji que amanhu nuo tm aula
+960;4;400;5268
+961;1;400;5556;@ptgatao ver filme
+962;1;500;5557;Gostei de um vdeo @YouTube de @desimpedidos https://t.co/IezqxidIuz TOP 10 - NOJEIRAS DO FUTEBOL - FRED +10
+963;1;400;5558;RT @raffaolo: as vezes tudo q a gente quer  algm pra ir ver filme de crianoa no cinema e que compreenda meus choros repentinos em cenas trOCa
+964;1;400;5559;john wick 2 tai um filme que eu to aguardando e MUITO
+965;5;300
+966;5;100
+967;1;500;5560;Gostei de um vdeo @YouTube de @desimpedidos https://t.co/o7wpgjK9De TOP 10 - NOJEIRAS DO FUTEBOL - FRED +10
+968;1;100;5561;Gostei de um vdeo @YouTube de @juliococielo https://t.co/Gj5HIBC3Tf CLICHeS DE FILME ROMeNTICO
+969;1;100;5562;Gostei de um vdeo @YouTube https://t.co/oNYrOSNxlE - Prova Filme Mudo - #JaimeLira
+970;4;500;5461
+971;4;300;5207
+972;1;400;5563;@rsnathi ji vi o filme mas nuo lembro de como foi o final
+973;5;500
+974;5;300
+975;1;200;5564;@medusalithrand eu nem tava tuo animada pro filme do han mas depois dessa vamos colocar um pouco de esperanoa
+976;1;200;5565;Tropa de elite  o melhor filme brasileiro q existe.
+977;1;300;5566;RT @LeisDeNilton: Principalmente as que moram em Estados onde o futebol nuo  expressivo e jamais o Cruzeiro viria jogar. Tem gente qOCa
+978;5;100
+979;1;400;5567;Adicionei um vdeo a uma playlist @YouTube https://t.co/vYl6rbkGNSeS DE FILME ROMeNTICO
+980;1;200;5568;Cumpri a missuo 'Encontrar 3 bolas de futebol ao c...' no Triboz para #Android.  https://t.co/gVAifNTeVI #androidgames  #gameinsightBR
+981;1;200;5569;Esse time do Flu sempre apresenta volume de jogo e bom futebol em uma determinada parte do segundo tempo. Se nuo sai o gol  murcha no fim.
+982;1;300;5570;Vocs tm noouo do quanto Freddy vs Jason (2003 Ronny Yu)  ridculo? Achei que era uma pardia  mas percebi que era filme de terror mesmo!
+983;5;300
+984;4;200;5511
+985;5;100
+986;1;200;5571;Antigamente s via filme de terror  agora s vejo romontico. O que ti acontecenu??? ye
+987;1;500;5572;N vai mais ter futebol quarta?
+988;1;100;5573;Concurso e Seletivo Universidade Federal de Minas Geraisa(UFMG) https://t.co/A8ZwrAk3Tp
+989;1;300;5574;Vou ver filme e depois dormir
+990;4;500;5053
+991;1;500;5575;RT @lRONMARVEL: MINHA SeRIE  #Futebol https://t.co/Rk140fNV4m
+992;1;200;5576;@5PFC_M1L_Gr4u Foi s o Maicon renovar que o futebol dele foi embora.
+993;4;400;5396
+994;1;200;5577;Gostei de um vdeo @YouTube https://t.co/bPGFGvh2oP Nuo Faoo A Menor Ideia Do Que Eu To Fazendo Com A Minha Vida (FILME COMPLETO
+995;4;400;5312
+996;1;200;5578;acabei de ver um filme de 3h e agora t meio sem rumo na vida
+997;5;400
+998;4;400;5384
+999;1;300;5579;Quero assistir um filme  mas acordei cedo nuo sei se vou aguentar de sono
+1000;1;100;5580;17' 2 tempo - Gol https://t.co/xptTYdUJHU
+1001;5;500
+1002;1;300;5581;Pra comeoar a entender | A metamorfose do eleitor petista da periferia que decidiu votar em Doria: https://t.co/sIbnAU9ckj
+1003;5;100
+1004;4;300;5333
+1005;1;500;5582;Esse time do SP .. tatuagem demais futebol de menos
+1006;1;100;5583;Gostei de um vdeo @YouTube de @eumarciob https://t.co/STV9Imf2ti REAGINDO A CLICHeS DE FILME ROMeNTICO (Canal Canalha)
+1007;4;400;5395
+1008;1;300;5584;RT @Fischer____: Botem uma coisa nas cabeoas de vcs  o Futebol carioca jamais chegari perto do Futebol Paulista.
+1009;5;100
+1010;5;500
+1011;1;400;5585;Ti tendo JOGOS DE FUTEBOL DO CAMPEONATO BRASILEIRO e neguim comentando sobre the Voice  n  entendeo
+1012;4;500;5137
+1013;1;200;5586;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+1014;1;100;5587;Sacanagem mesmo  essa histria d puxa-votos... Tem uns ai q ganham 50 votos se elegem deputado   senador... mmias a 50 anos na politica
+1015;4;500;5220
+1016;1;100;5588;RT @futmai5: A vida me deu 2 pernas para jogar futebol  nuo para correr atris de uma mulher que nuo se importa comigo- El ShOCa
+1017;1;200;5589;Puta que pariu  queria ver esse filme  mas nuo vai di  amanhu acordo cedao ... :(
+1018;1;200;5590;RT @Esseteucu: A vida n  um filme porno n fofas infelizmente
+1019;1;200;5591;sera que jogador de futebol nao tem mais outra frase pra falar  s o: levantar a cabeoa e.....
+1020;1;200;5592;RT @rmparrilla: decepouo na vida e decepouo no futebol
+1021;1;300;5593;S vou dormi depois de ver o filme
+1022;1;400;5594;Quando escuto essa musica ji penso no filme do homem de ferro  gordin sarniou
+1023;1;500;5595;@lourryheal fazer continuaouo de um filme com personagens diferentes nuo tem lgica  entuo yesss  todos li
+1024;1;100;5596;Gostei de um vdeo @YouTube de @juliococielo https://t.co/ujFcBFiWfl CLICHeS DE FILME ROMeNTICO
+1025;1;300;5597;Gostei de um vdeo @YouTube de @juliococielo https://t.co/mYmrBd15hX CLICHeS DE FILME ROMeNTICO
+1026;5;400
+1027;1;500;5598;Nuo  mas esse filme  incrvel. Vejam.
+1028;4;200;5105
+1029;1;400;5599;Por que quem da mole no filme da vida nuo passa nem do primeiro episdio.
+1030;5;100
+1031;1;400;5600;Menor publico e baixando  enquanto essa diretoria estiver ai e esse.time jogando esse futebol vai ser dai pra pior https://t.co/5PIG4V0JIB
+1032;5;500
+1033;5;500
+1034;4;100;5006
+1035;1;400;5601;RT @BuffariniSPFC: Globo so tirou o futebol pra mostra the voice porque e o Suo Paulo que joga 21h45Se fosse os queridinho dos gamba ia paOCa
+1036;4;400;5559
+1037;5;400
+1038;4;400;5452
+1039;1;400;5602;@lauroaires ficamos 60 minutos sem jogar futebol. O dia que o levir enxergar que o Mjr nuo pode jogar entre os zagueiros o time melhora.
+1040;1;500;5603;RT @palmeriodoria: Aps ato na Comara  trabalhadores mantm protesto em Braslia contra medidas de Temer https://t.co/v2uea8vsh9 via @redebOCa
+1041;4;100;5597
+1042;1;500;5604;minha v nuo entende o quanto esse filme mudou a minha vida e me motivou a querer estudar cinema
+1043;1;200;5605;Gostei de um vdeo @YouTube de @juliococielo https://t.co/4ooThXjB6h CLICHeS DE FILME ROMeNTICO
+1044;1;100;5606;RT @jaosccp_: Muitos erros bobos  coisa bisica do futebol como passe  chute  cruzamentos... faz tempo que esse time peca muito nesses quesiOCa
+1045;1;400;5607;Fracooooooooo e mortooooooooo !!!! Kkkkk https://t.co/GlOlyn2b1i
+1046;4;500;5484
+1047;5;300
+1048;5;400
+1049;1;500;5608;O filme  A cura    muito perfeito eu choro rios
+1050;1;100;5609;To precisando muito de jogar um futebol
+1051;1;300;5610;RT @ThinkOfYouZayn: Jack Lowden (ator de Dunkirk) falando sobre a audiouo do Harry para o filme e sobre trabalharem juntos. https://t.co/PgOCa
+1052;4;100;5230
+1053;4;300;5015
+1054;1;100;5611;Se essa turma continuasse a gerir o futebol ano que vem   nuo tenho dvidas que o Gum e o WS continuariam.
+1055;4;200;5556
+1056;5;400
+1057;5;100
+1058;4;400;5266
+1059;1;100;5612;@NagelaGaia acabou com o time ne diretoria ai esti resposta na arregadaouo e no futebol tambm
+1060;1;100;5613;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+1061;4;100;5174
+1062;1;200;5614;Nuo acredito que fui pra aula s pra olhar filme y
+1063;4;500;5209
+1064;4;200;5226
+1065;4;100;5171
+1066;4;300;5205
+1067;5;200
+1068;4;300;5090
+1069;1;100;5615;Fui pro cinema pra beijar  mas acabei tendo que ver o pior filme da minha vidaaaaaaa! #LevaNaBoa https://t.co/sw0RbHJVVf
+1070;4;100;5176
+1071;4;200;5291
+1072;1;500;5616;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+1073;4;300;5446
+1074;1;100;5617;Baixei um filme hoje  no meu celular  para a Louise assistir na aula yeyeye
+1075;1;500;5618;Adicionei um vdeo a uma playlist @YouTube https://t.co/BIFLRg1XjaeS DE FILME ROMeNTICO
+1076;1;300;5619;RT @gabri_palavras: Eu escuto essa msica s vem uma coisa: filme do Percy Jackson... Eu sei: q coisa triste!  #TheVoiceBrasil https://t.coOCa
+1077;1;100;5620;Futebol nao  s 22 caras correndo atras da bola https://t.co/9PHuP3EY4z
+1078;1;200;5621;Gostei de um vdeo @YouTube https://t.co/v2RsZ3qFbU - Prova Filme Mudo - #MalenIsa
+1079;1;500;5622;Preferia o futebol do q esse the voice
+1080;1;500;5623;Gostei de um vdeo @YouTube de @juliococielo https://t.co/jhgxdcToLD CLICHeS DE FILME ROMeNTICO
+1081;1;200;5624;RT @olivader: A culpa  das estrelas  o meu filme favorito.
+1082;4;200;5260
+1083;4;500;5077
+1084;1;500;5625;RT @BininhoFla: Quando escuto essa musica ji penso no filme do homem de ferro  gordin sarniou
+1085;1;300;5626;RT @SportManiacos: Primeiro tempo horrvel  volantes sem marcar  Everton acertou quase nada. Pssimo futebol  ainda bem que temos Diego.
+1086;5;500
+1087;1;200;5627;Finalmente Um sorrisinho na cara amarrada desse mi torturado pelo futebol https://t.co/jEvnWpLZdl
+1088;4;500;5145
+1089;1;500;5628;O Buffarini nuo tem muito futebol  mas o cara nuo desliga  maluco. Meu Deus.
+1090;4;100;5582
+1091;1;300;5629;Gostei de um vdeo @YouTube de @juliococielo https://t.co/Lxzcuacxc0 CLICHeS DE FILME ROMeNTICO
+1092;1;300;5630;Supremo mantm possibilidade de prisuo a condenados em 2 instoncia #G1 https://t.co/qGZIGIpTAE
+1093;1;300;5631;RT @McEstudante: Parece meu dedo depois do futebol ela
+1094;1;200;5632;Gostei de um vdeo @YouTube de @juliococielo https://t.co/CStiJdePvl CLICHeS DE FILME ROMeNTICO
+1095;1;100;5633;Trocar futebol pelo the voice  pra foder  s vai loco nessa porra
+1096;4;400;5004
+1097;5;300
+1098;1;500;5634;Eu quero que voc se foda com essa crtica ao meu futebol
+1099;1;200;5635;Falta futebol. E tambm gana. Vejam a diferenoa do Palmeiras ontem. Buscando os 3 pontos. https://t.co/DOrFEw6onV
+1100;4;300;5093
+1101;4;400;5026
+1102;1;300;5636;RT @migasuafalsa: porque voc gosta de filme de animaouo https://t.co/Rq5bi98DFi
+1103;5;200
+1104;1;300;5637;Kelvin porraCad seu futebol caralho?????
+1105;4;200;5626
+1106;1;100;5638;@AfterSpoiler e after nenhum andamento no filme kkkk
+1107;1;200;5639;Gostei de um vdeo @YouTube de @juliococielo https://t.co/chyTJ2tAAh CLICHeS DE FILME ROMeNTICO
+1108;4;200;5126
+1109;1;100;5640;RT @timaoeeoo: Como tem jogador de futebol VAGABUNDOO leandro donizete ja tinha amarelo e faz uma falta dessa e nao quer ser expulsoAindaOCa
+1110;1;300;5641;RT @pauloeduwcski: Luis Felipe Miguel: Precisamos falar sobre Lula e incendiar  sim  o Pas quando ele for preso https://t.co/P70afYIRrS viOCa
+1111;5;500
+1112;5;100
+1113;1;400;5642;@morato_edu eu nunca vi jogar futebol. Eu  sei q esporte ele pratica
+1114;1;200;5643;tive que lavar meu cabelo porque teve futebol hoje
+1115;1;500;5644;Pra olhar um filme nesse exato momento  qual escolheria?
+1116;5;400
+1117;4;100;5114
+1118;1;300;5645;Gostei de um vdeo @YouTube de @eumarciob https://t.co/STV9Imf2ti REAGINDO A CLICHeS DE FILME ROMeNTICO (Canal Canalha)
+1119;1;500;5646;Ossada  falaaa https://t.co/wk3MdVHygK
+1120;1;400;5647;RT @manulorenzi_: se eu e john fossemos no cinema toda vez que a gente marca  nuo perderamos um filme
+1121;1;100;5648;Esse bixo n desiste kkk https://t.co/XdooiSAlSM
+1122;5;100
+1123;5;300
+1124;4;500;5410
+1125;4;300;5014
+1126;4;100;5629
+1127;4;100;5588
+1128;4;300;5332
+1129;4;100;5000
+1130;1;100;5649;vi um filme com as garotas  chorei 7 vezes kkk. S eu mesma
+1131;1;400;5650;@MatheusReis95 cara voc precisa treinar mais  seu futebol esti um lixo
+1132;1;400;5651;RT @mvicca: Que fase do SPFC  hein! Globo preferiu passar programa de calouros do que o jogo deles no horirio nobre do futebol.
+1133;4;100;5116
+1134;1;100;5652;@_BaahMendees assiste um filme miga
+1135;1;200;5653;RT @ptnuncamais: Ex-presidente Lula  indiciado por corrupouo passiva PF entra nas negociatas em Angola#PTnuncaMais https://t.co/rQHiIOCa
+1136;1;100;5654;Gran Torino  um filme do caralho
+1137;1;200;5655;RT @ThinkOfYouZayn: Jack Lowden (ator de Dunkirk) falando sobre a audiouo do Harry para o filme e sobre trabalharem juntos. https://t.co/PgOCa
+1138;5;500
+1139;1;400;5656;Que Horas Ela Volta? com atriz Regina Cas  eleito o melhor filme do ano - https://t.co/Xhv5O5bxRA https://t.co/T7cJqHSfJa
+1140;4;100;5168
+1141;1;400;5657;DEVE Tu ASSANHADO IGUAL UMA PESSOA NaO DISSE QUEM https://t.co/LULXaRcvUS
+1142;4;300;5366
+1143;1;200;5658;RT @cdmricardo: hj na ed. fisica os garoto ia joga futebol eu perguntei se podia joga eles disserao que sim so que eu ia se a bola..sai rolOCa
+1144;1;100;5659;RT @BininhoFla: Quando escuto essa musica ji penso no filme do homem de ferro  gordin sarniou
+1145;4;500;5397
+1146;1;100;5660;#filme porno da xuxa fat sexy naked https://t.co/PjZzIac2Hj
+1147;1;400;5661;Gostei de um vdeo @YouTube de @juliococielo https://t.co/sqSZz3ryoC CLICHeS DE FILME ROMeNTICO
+1148;1;100;5662;Gostei de um vdeo @YouTube de @juliococielo https://t.co/j8zb0akyYJ CLICHeS DE FILME ROMeNTICO
+1149;1;100;5663;vou comer vendo filme
+1150;4;400;5341
+1151;1;300;5664;RT @perryxotta: 21- Questuo de TempoOCo ou vei esse filme  O T I M OOO O OOOO https://t.co/PN5pcVsrcR
+1152;4;400;5042
+1153;1;500;5665;brigando pelo titulo e o jogador comemorando 1 ponto fora de casa. Vem falar que foi bom jogo. Se foi bom jogo  nuo entendo de futebol
+1154;1;500;5666;RT @rmparrilla: decepouo na vida e decepouo no futebol
+1155;4;300;5160
+1156;5;400
+1157;4;200;5487
+1158;1;400;5667;RT @McOrochi: Naruto  um bglh q eu acompanho desde crianoa... Ensina muito  vicia muito  uma das historias mais fodas que eu ja vi. To espOCa
+1159;1;300;5668;Esse Filme T Ryca e Muitoooo Engraoadoooo yeyeyeyeye
+1160;4;400;5311
+1161;4;500;5448
+1162;1;100;5669;RT @_ThiagoCotta: Pra quem pensa em ttulo empate de hoje foi trigico  horroroso  pelo futebol que nuo apresentamos ti at de bom tamanho
+1163;1;100;5670;Fui pro cinema pra beijar  mas acabei tendo que ver o pior filme da minha vidaaaaaaa! #LevaNaBoa https://t.co/4Vg1oZXasT
+1164;1;500;5671;achei que tudo tava ruim  mas piorou quando descobri que vem a mais um filme baseado em livro do Paulo Coelho
+1165;1;400;5672;@lilibruski n  msica! e do filme 10 coisas que eu odeio em voc
+1166;4;200;5388
+1167;1;500;5673;A conta que todo mundo estava procurando https://t.co/Q5MhSmyrZS
+1168;1;500;5674;Gostei de um vdeo @YouTube de @desimpedidos https://t.co/pPJDqH7TTr TOP 10 - NOJEIRAS DO FUTEBOL - FRED +10
+1169;1;300;5675;RT @sucgg: queria mto ir no cinema assistir esse filme da Kefera
+1170;1;400;5676;Gostei de um vdeo @YouTube de @juliococielo https://t.co/tofw9XdOS9 CLICHeS DE FILME ROMeNTICO
+1171;1;300;5677;17.371 torcedores na arena. e o pior pblico da histria da arena. #tr https://t.co/O39UEusFgW
+1172;4;400;5039
+1173;5;500
+1174;1;200;5678;Gostei de um vdeo @YouTube https://t.co/hfigfjbFaw - Prova Filme Mudo - #JaimeLira
+1175;4;200;5120
+1176;4;300;5078
+1177;5;500
+1178;1;400;5679;E eu preocupado com o ENEM  https://t.co/pEM3SlCXss
+1179;5;200
+1180;4;400;5385
+1181;1;100;5680;RT @Oledobrasil: Voc sabe que a fase do futebol brasileiro esti ruim quando a emissora prefere passar um reality show musical em vez do coOCa
+1182;4;400;5533
+1183;1;400;5681;@tqsrenan se nascer na hora do filme eu taco no teus peito yei
+1184;1;300;5682;Follow the money! Depois do sobrinho de Lula o dinheiro foi pra quem? (ou vocs acham que ficou s com o sobrinho?)https://t.co/IK53FmCG2H
+1185;5;500
+1186;1;300;5683;Como num filme no final tudo vai dar certo  quem foi que disse que pra ti junto precisa ti perto
+1187;4;500;5632
+1188;5;300
+1189;4;500;5426
+1190;4;100;5562
+1191;4;200;5247
+1192;5;400
+1193;4;400;5214
+1194;4;300;5436
+1195;5;500
+1196;5;400
+1197;1;500;5684;meu filme c quem??kkkk https://t.co/gAxcHgjg3c
+1198;4;300;5196
+1199;1;300;5685;Gostei de um vdeo @YouTube https://t.co/O9SAR087eQ - Prova Filme Mudo - #MalenIsa
+1200;1;400;5686;O futebol ainda respira na quebrada https://t.co/hGzmKBXEuj
+1201;5;500
+1202;5;400
+1203;1;300;5687;Ao Henrique fica o meu lamento: Se ele nuo consegue respeitar a camisa sagrada do Santos  nuo esti apto a jogar futebol.
+1204;1;400;5688;Na parte que o Mano Brow canta na msica do NEGO DRAMA  com certeza eu ia me emocionar hahahhahahahaha  Daria um filme
+1205;4;300;5468
+1206;5;400
+1207;1;200;5689;RT @crente_falando: Eu depois de assistir um filme de terror https://t.co/StsJwxNa99
+1208;1;500;5690;RT @omelete: Gotham deve aparecer no filme da Mulher-Maravilha! https://t.co/NpYmT04YKo https://t.co/sAA3Iwd3Qy
+1209;1;100;5691;Vou ficar com medo de fazer alguma chamada d vdeo dps de assistir esse filme
+1210;1;300;5692;saudade de assistir um filme  coladinho ...yEtempo bom...
+1211;4;500;5638
+1212;5;200
+1213;1;500;5693;Outra prova de que eu nunca serei liberal: olho pra uniforme de time de futebol cheio de logotipo de patrocinador e tenho vontade de vomitar
+1214;4;500;5335
+1215;4;500;5666
+1216;4;500;5517
+1217;1;200;5694;RT @SportManiacos: Primeiro tempo horrvel  volantes sem marcar  Everton acertou quase nada. Pssimo futebol  ainda bem que temos Diego.
+1218;5;200
+1219;1;100;5695;Quero assistir um filme  mas acordei cedo nuo sei se vou aguentar de sono
+1220;4;300;5117
+1221;4;400;5544
+1222;1;100;5696;Futebol - A Visuo do Torcedor: 29 Rodada do Brasileiruo 2016 - Corinthians X At. Mineiro: https://t.co/MAGI1gzlf4 @ale_espn @10neto
+1223;4;200;5273
+1224;1;200;5697;@padrecodoradio Lucas condido assim q terminar  contrato com o galo ele vai assinar com  o filme MIB pra ser akelas minhocas do caf.
+1225;1;200;5698;Tiraram o futebol da tela nas quartas ? #nuoaoGolpe
+1226;1;400;5699;Gostei de um vdeo @YouTube https://t.co/msA5w8tzwq - Prova Filme Mudo - #MalenIsa
+1227;1;100;5700;@belacms vi o filme***
+1228;1;100;5701;RT @TucanoVermelho: #CrianoaFeliz Marcela Temer de azul e Temer congelando educaouo e sade por 20 anos  filme: Frozen Uma Aventura CoOCa
+1229;1;500;5702;RT @Esseteucu: A vida n  um filme porno n fofas infelizmente
+1230;5;300
+1231;1;300;5703;RT @cartacapital: Pr-sal: Congresso libera multinacionais para explorar sem a Petrobras - https://t.co/mIjQFnkAHd #PreSal https://t.co/QALOCa
+1232;1;100;5704;RT @DicasdoCartola: As vezes a audincia pode nuo compensar para a Globo  mas quarta a noite  dia de futebol  e a emissora precisa valorizOCa
+1233;5;200
+1234;1;400;5705;eu so q nem um filme do adam sandler muitas gargalhadas mas fique esperto vai ter uma parte sentimental
+1235;1;100;5706;@NetflixBrasil pAe o filme do @tiagoiorc no catilogo eu nunca te pedi nada #
+1236;4;400;5175
+1237;4;500;5703
+1238;1;100;5707;RT @zanetti__: Mulher gostar de futebol nuo  feio! Feio  ela ser coxa branca!
+1239;4;100;5221
+1240;1;100;5708;Nvel de ingls: ver e entender um filme americano sem legenda. Sucks
+1241;4;100;5035
+1242;4;200;5384
+1243;1;200;5709;RT @LFCBrNews: Tite: Foi uma decisuo difcil pra mim  mas agora  o momento do Coutinho. E no futebol  voc deve seguir o momentoOCa
+1244;4;200;5545
+1245;1;300;5710;@DudaHilario10 vamos p cinema  filme de terror  eu gritando  sucesso
+1246;5;200
+1247;4;200;5040
+1248;1;400;5711;RT @FatosEx: - vamos no cinema?- vamos  pra ver qual filme?- na verdade eu s queria dar uns beijos mas se voc quiser a gente pode ver aOCa
+1249;1;100;5712;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+1250;4;200;5033
+1251;5;300
+1252;5;300
+1253;1;500;5713;Queria olhar um filme agora  mas nuo sei se devo
+1254;1;100;5714;@ViniciusXL_ um maluco da base foi escolhido entre as 60 maiores promessas do futebol mundial. Em alguns anos garanto que seri vendido+
+1255;1;200;5715;Notcia vista em https://t.co/XLRkEVdUjD: https://t.co/LZhuOu2gRQ
+1256;1;200;5716;RT @zuadorcitou: A culpa  das estrelas  aquele filme  que te faz pensar em dar mais valor a quem esti do seu lado
+1257;1;500;5717;e s Love por essa mulher OnOn https://t.co/v3yUXiYYz6
+1258;4;200;5056
+1259;5;400
+1260;1;500;5718;ler um livro  e depois ver o filme do livro #MPN #ZeFelipeRevelacao https://t.co/iRwiAFxsU1
+1261;5;100
+1262;1;400;5719;REAGINDO A CLICHeS DE FILME ROMeNTICO (Canal Canalha): https://t.co/39nYM9w9my via @YouTube
+1263;5;200
+1264;1;200;5720;RT @Rodriguesss11: O DESESPERO BATENDO KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK https://t.co/jrkkIyunyV
+1265;1;100;5721;@avilaleo_ reclama que as pessoas narram filme mas ce narra jogo ne kkkk
+1266;1;400;5722;RT @futmai5: A vida me deu 2 pernas para jogar futebol  nuo para correr atris de uma mulher que nuo se importa comigo- El ShOCa
+1267;1;500;5723;Assisti gnios do crime hoje. A   chorei de ri com esse filme
+1268;1;100;5724;RT @pqsaam: s pq passou o filme A Culpa  das Estrelas ontem  o povo s ta compartilhando fotos e frases disso. ces sao desacostumados  quOCa
+1269;4;300;5305
+1270;4;400;5094
+1271;1;400;5725;RT @Oledobrasil: Voc sabe que a fase do futebol brasileiro esti ruim quando a emissora prefere passar um reality show musical em vez do coOCa
+1272;4;400;5531
+1273;4;300;5110
+1274;1;100;5726;RT @NetflixBrasil: Thais Cabral e Paulo Gorgulho vuo estrelar O Matador  primeiro filme original brasileiro. No elenco tem Mayte PiragOCa
+1275;1;100;5727;RT @costa19346: Fachin libera denncia contra Renan para julgamento no STF https://t.co/Z83VmWSJ1b
+1276;5;500
+1277;4;500;5230
+1278;1;300;5728;Nicolas Cage  um dos melhores atores papo reto  nuo tem um filme q ele faoa q seja ruim
+1279;1;400;5729;RT @BuffariniSPFC: FODA-SE THE VOICE HOJE e QUARTA FEIRA LOTEM O TWITTER DE FUTEBOL
+1280;5;300
+1281;5;200
+1282;4;100;5264
+1283;5;300
+1284;5;200
+1285;5;200
+1286;1;300;5730;ontem vi o filme 'aguas rasas' e meu medo por tubarao aumento uns 90
+1287;4;500;5585
+1288;5;400
+1289;4;500;5062
+1290;5;300
+1291;1;100;5731;a gente sofre mais por futebol do q por amor
+1292;1;200;5732;@rafhaelcarol eu concordo com vc  mas com o galo sempre sofremos at o final. E no futebol tudo  possvel  entuo n vejo pq desacreditarmos
+1293;5;200
+1294;5;200
+1295;4;300;5178
+1296;1;500;5733;Nada no futebol  impossvel https://t.co/gkSrsfCJQF
+1297;4;400;5082
+1298;4;300;5660
+1299;5;500
+1300;4;300;5633
+1301;1;400;5734;Cada vez que vejo esse trailer do filme de Kfera  fico me perguntando pela famlia  amigos... ningum tentou dizer que ela nuo  engraoada?
+1302;1;500;5735;Gostei de um vdeo @YouTube https://t.co/p1cy0dv47F - Prova Filme Mudo - #MalenIsa
+1303;1;200;5736;Joyce fez brigadeiro bonzao vamos ver um filme tega On Ayi
+1304;1;100;5737;30h pra carregar o filme e ai quando falta 20min pra acabar  o computador trava e sai fechando tudo que ta aberto  hoje o dia ta de parabens
+1305;1;100;5738;Ver um filme #MPN #ZeFelipeRevelacao https://t.co/86Mw7lLvte
+1306;1;300;5739;Que Horas Ela Volta? com atriz Regina Cas  eleito o melhor filme do ano - https://t.co/Xhv5O5bxRA https://t.co/T7cJqHSfJa
+1307;5;500
+1308;1;500;5740;Os comentirios do Michel Tel poderiam se feitos por um jogador de futebol na entrevista aps o jogo. #TheVoiceBrasil
+1309;1;200;5741;I liked a @YouTube video from @juliococielo https://t.co/kuFfaTCs4a CLICHeS DE FILME ROMeNTICO
+1310;1;300;5742;eu quero alguem na minha vida que me faoa sentir como se eu vivesse em um filme do estudio ghibli
+1311;4;500;5647
+1312;4;200;5368
+1313;1;500;5743;Gostei de um vdeo @YouTube de @juliococielo https://t.co/CRrgLT7GIe CLICHeS DE FILME ROMeNTICO
+1314;1;100;5744;ji era pra eu ter na metade de algum filme mas naaaao  a eu tenho que comeoar um dia e terminar no outro
+1315;1;500;5745;Gostei de um vdeo @YouTube de @omelete https://t.co/p5h9hLbu9S Wolverine 3: primeiro pster revela segredo do filme?
+1316;1;400;5746;RT @_docedejambo: imagina que coisa maravilhosa seria uma cama quentinha  com uma pessoa maravilhosa  com um filme timo e varias besteirasOCa
+1317;1;500;5747;Eu sempre odiei  esse Mateus Reis  futebol horrvel o dele
+1318;1;500;5748;Lindbergh critica propaganda do governo por 'mensagem subliminar' contra o PT https://t.co/t0EmZ6p7oR
+1319;1;500;5749;RT @wsantarem_: A @Kefera vai gravar outro filme agora em novembro e no final de outubro lanoa o que ela ji fez a muito tempinho atris O aOCa
+1320;1;500;5750;Plena quarta e eu e mozi bebendo caipirinha e vendo filme THAT'S THE DREAM
+1321;1;100;5751;Gastamos no futebol hoje
+1322;1;200;5752;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+1323;1;100;5753;RT @UNIQ_BRASIL: [#HQ] 24/04/16 #Yixuan na gravaouo do Super Show sobre o filme MBA Partners.cr: FEVER12111 (2) https://t.co/XrA2aKmYdR
+1324;1;300;5754;Renato Augusto seri o capituo da seleouo brasileira contra a Bolvia https://t.co/I6lExa4oeU
+1325;1;200;5755;RT @alxmrgan: eu tenho serios problemas psicologicos causados por fotinhas de jogadoras de futebol
+1326;4;100;5029
+1327;4;300;5054
+1328;4;500;5071
+1329;1;500;5756;RT @TeamBiebers_br: Enquetes Oe- Se o Justin fizesse um filme porn  iria assistir?Vote e d retweet   pelo JustinOeOn#ARIASJUSTINBIEBER
+1330;1;100;5757;Fui pro cinema pra beijar  mas acabei tendo que ver o pior filme da minha vidaaaaaaa! #LevaNaBoa https://t.co/4Vg1oZXasT
+1331;4;100;5526
+1332;1;400;5758;Gostei de um vdeo @YouTube de @juliococielo https://t.co/3qC3TjnznY CLICHeS DE FILME ROMeNTICO
+1333;1;500;5759;Gostei de um vdeo @YouTube de @juliococielo https://t.co/Hkc6Db3I2Z CLICHeS DE FILME ROMeNTICO
+1334;1;100;5760;Quando pivete  meu sonho era ser jogador de futebol
+1335;1;500;5761;Um cachorro latinho no filme a minha cachorra comeoa a latir........ t rindo.
+1336;4;500;5261
+1337;1;300;5762;qlqr um da saga Alien https://t.co/uEDyQKNdcn
+1338;1;300;5763;Gostei de um vdeo @YouTube de @juliococielo https://t.co/VX98aFw2HF CLICHeS DE FILME ROMeNTICO
+1339;5;500
+1340;4;200;5380
+1341;1;500;5764;Esse time do Flu sempre apresenta volume de jogo e bom futebol em uma determinada parte do segundo tempo. Se nuo sai o gol  murcha no fim.
+1342;1;300;5765;Gostei de um vdeo @YouTube de @juliococielo https://t.co/xp0q0gFqCA CLICHeS DE FILME ROMeNTICO
+1343;1;500;5766;Pelo menos deu pra ver o filme  ah e ainda bem que eu parei de prestar atenouo pq o filme  UMA BOSTA NaO ASSISTAM A BRUXA DE BLAIR
+1344;1;500;5767;T assistindo filme na Netflix
+1345;5;300
+1346;1;100;5768;@Silva_RenatoJr palhaoo??? ti maluco  consigo nem ver foto de palhaoo  imagina ver filme
+1347;1;100;5769;passa um filme do q me falouQ quando eu te perdesse iria dar valorE vejo quanto fiz a te desmerecerE n tenho argumentos pra te convencerAA
+1348;1;200;5770;X-Men  um filme tuo bom que nem sei
+1349;1;100;5771;A msica do filme da Kefera ti na minha cabeoa
+1350;5;400
+1351;1;100;5772;@taais_rock vamos aplicar tortura daquelas de filme
+1352;5;200
+1353;1;300;5773;RT @juliapaiiva: Se fosse Corinthians OU Flamengo  eles transmitiriam o The Voice 2 da manhu pra nuo deixar de passar os amadinhos dOCa
+1354;1;100;5774;@julioprieto Justo ele. O jogador mais lazarento do futebol mundial!!!
+1355;4;100;5593
+1356;4;300;5515
+1357;1;100;5775;Cumpri a missuo 'Encontrar 3 bolas de futebol ao c...' no Triboz para #Android.  https://t.co/gVAifNTeVI #androidgames  #gameinsightBR
+1358;4;400;5140
+1359;1;500;5776;RT @SemClubismo_FC: Gostaria de dizer que a Rede Globo  grande apoiadora do nosso futebol (risos)  resolveu passar o The Voice ao invs doOCa
+1360;4;200;5197
+1361;1;200;5777;eu me caguei de medo de vez em quando mas que filme viu
+1362;4;500;5394
+1363;5;200
+1364;1;300;5778;Sim  eu levantei da cama para assistir Sport x Suo Paulo. Caralho. Que amor ao futebol!
+1365;5;100
+1366;4;400;5057
+1367;4;300;5036
+1368;5;500
+1369;5;200
+1370;1;400;5779;da vampira pf nunca pedi nada https://t.co/00xg7EFmsz
+1371;1;200;5780;Acabou jogo do Galo fui caoar o jogo da Globo e ta passando the voiceNA QUARTA SAGRADA DO FUTEBOL TA PASSANDO THE VOICEQUE MORTE HORRIVEL
+1372;4;100;5107
+1373;1;300;5781;RT @gabriela__peres: Sempre gostei de filme de terror mas sempre me caguei com um palhaoo
+1374;4;500;5252
+1375;1;300;5782;RT @Teleco1910: 05/10 - 21h43 Gustavo: zero gols*https://t.co/FwqCIrutAu
+1376;4;100;5197
+1377;1;300;5783;RT @NisePalhares01: Passa um filme na cabeoa Flashes ntidos do que  estar li e a cadeira virar yi #TheVoiceBrasil
+1378;1;100;5784;Gostei de um vdeo @YouTube de @juliococielo https://t.co/K1f0yKcyXI CLICHeS DE FILME ROMeNTICO
+1379;1;100;5785;RT @Daffuk: melhor filme https://t.co/UiGMDhTzcL
+1380;1;100;5786;RT @notniallpsycho: isso nuo  um filme. e A MELHOR OBRA DE ARTE DO MUNDO https://t.co/aXEIzHxdY3
+1381;1;400;5787;Quero assistir um filme de comdia ou um choradeira  hoje to aos extremos! Kk
+1382;1;500;5788;RT @greiceeduarte: Que chuvinha boa pra ficar vendo filme debaixo das cobertas
+1383;1;300;5789;como  triste a vida de uma torcedora do Suo Paulo Futebol Clube
+1384;1;500;5790;RT @perryxotta: 17- Juntos Pelo AcasoOCo eu me divirto muito vendo esse filme jenej a histria  bem legal https://t.co/p4d3RIa3kd
+1385;5;300
+1386;5;400
+1387;1;500;5791;RT @camilaa_beckeer: os cara tira futebol p passar the voice  pelo amorrr
+1388;1;300;5792;RT @Boatosorg: Freixo disse OCquando for assaltado aceite  pois bandido  vtimaOC #boato - https://t.co/ZsBV64rL35 via https://t.co/r5xRbqwROCa
+1389;1;300;5793;RT @velhocronista: Em vez de jogo  The Voice.Em vez de Atletiba  Andrea Bocelli.O futebol esti perdendo terreno para todas as formas de mOCa
+1390;1;500;5794;Gostei de um vdeo @YouTube de @juliococielo https://t.co/XMKKaXAJWT CLICHeS DE FILME ROMeNTICO
+1391;1;300;5795;RT @raffaolo: as vezes tudo q a gente quer  algm pra ir ver filme de crianoa no cinema e que compreenda meus choros repentinos em cenas trOCa
+1392;1;300;5796;DESISTE DESGRAcA https://t.co/z82LJsBC75
+1393;1;300;5797;A msica do filme da Kefera ti na minha cabeoa
+1394;5;100
+1395;1;500;5798;Cite um filme mexicano:#thevoicebrasil
+1396;4;500;5543
+1397;5;400
+1398;5;200
+1399;1;400;5799;@rsnathi ji vi o filme mas nuo lembro de como foi o final
+1400;1;300;5800;RT @Fraanklen: Quando eu for presidente se nuo tiver futebol na TV de domingo a domingo vou tirar todos os canais https://t.co/RfES77MaYG
+1401;4;200;5280
+1402;1;300;5801;RT @arssilee: Guerra  guerra  um filme tuo nonsense que a witherspoon escolhe o chris pine no lugar do hardy. Errado demais isso
+1403;1;400;5802;nenhum https://t.co/p4Wrp11jbq
+1404;5;500
+1405;1;400;5803;E depois vem dar discursinho por causa do 7x1. Mais um absurdo da @RedeGlobo . https://t.co/T82agtiNtZ
+1406;5;500
+1407;4;300;5444
+1408;1;500;5804;Gostei de um vdeo @YouTube de @cine_kryptonita https://t.co/UtUeRiJTgB O Rei Leuo teri filme Live Action
+1409;1;400;5805;@fewIicity muito bom o livro. Eles tm muito mais diilogos do que no filme.
+1410;4;400;5201
+1411;1;400;5806;Gostei de um vdeo @YouTube de @eumarciob https://t.co/xhqEBUecv9 REAGINDO A CLICHeS DE FILME ROMeNTICO (Canal Canalha)
+1412;1;300;5807;RT @FatosEx: - vamos no cinema?- vamos  pra ver qual filme?- na verdade eu s queria dar uns beijos mas se voc quiser a gente pode ver aOCa
+1413;4;100;5058
+1414;1;100;5808;RT @gdfyou: rodei o google inteiro atris de uma foto das pernas do ansel porque meu pai ta crente que ele cortou a perna pra faOCa
+1415;1;300;5809;Gostei de um vdeo @YouTube https://t.co/1ihPzUozB8 - Prova Filme Mudo - #MalenIsa
+1416;5;200
+1417;1;100;5810;@tomleao filme sinistro e estranhssimo
+1418;5;200
+1419;4;400;5667
+1420;1;400;5811;RT @FUTEDADEPRESSAO: AI VOCe ESPERA CHEGAR A QUARTA FEIRA PRA VER O SAGRADO FUTEBOL NA GLOBO  E OS CARAS PREFEREM PASSAR THE VOICE..THE VOCa
+1421;4;300;5647
+1422;1;200;5812;Nuo sei se  pior ser trocada por futebol  ou seriado. To analisando aqui.
+1423;1;100;5813;Vou ver filme e depois dormir
+1424;1;400;5814;Muitos erros bobos  coisa bisica do futebol como passe  chute  cruzamentos... faz tempo que esse time peca muito nesses quesitos.
+1425;1;100;5815;RT @cdmricardo: hj na ed. fisica os garoto ia joga futebol eu perguntei se podia joga eles disserao que sim so que eu ia se a bola..sai rolOCa
+1426;5;100
+1427;5;500
+1428;1;300;5816;RT @McEstudante: Parece meu dedo depois do futebol ela
+1429;1;500;5817;futebol  um saco
+1430;5;100
+1431;1;100;5818;Mo tempuo sem jogar um futebol
+1432;1;400;5819;ah pronto ate Kfera fez filme agora
+1433;4;300;5016
+1434;1;100;5820;Falar com meu pai enquanto ele ti vendo futebol  a mesma coisa que falar sozinha. Ele xinga a TV  sai da sala  e nada de me responder ya
+1435;4;500;5416
+1436;1;500;5821;adoro esse filme
+1437;1;100;5822;@futirinhas at o Rodriguo(Santos) seria titular e considerado craque por um comentarista de futebol
+1438;1;200;5823;@medusalithrand eu nem tava tuo animada pro filme do han mas depois dessa vamos colocar um pouco de esperanoa
+1439;1;100;5824;RT @griyffindor: eu me sinto culpada por nuo estudar e fazer outra coisa que eu gosto tipo ver uma srie ou um filme
+1440;4;100;5517
+1441;4;500;5448
+1442;5;100
+1443;4;100;5461
+1444;1;400;5825;o filme foi bom  me emocionei  mas nao chega nem perto do que eu senti lendo o livro. aquela noite will levou um pedaoo de mim junto dele.
+1445;5;100
+1446;4;500;5525
+1447;1;200;5826;RT @MafiaLittleMix: Black Magic foi usada em um dos comerciais do filme Virei Um Gato (Nine Lives)! https://t.co/kF29ZYQf87
+1448;5;100
+1449;5;300
+1450;1;200;5827;Vocs tm noouo do quanto Freddy vs Jason (2003 Ronny Yu)  ridculo? Achei que era uma pardia  mas percebi que era filme de terror mesmo!
+1451;1;400;5828;RT @mtotruste: eu nunca  entendi pq em filme quando alguem ganha mto dinheiro eles joga  p alto mano eu ia esconder td e enfia ate no meOCa
+1452;1;500;5829;parei de queimar meu filme
+1453;4;200;5583
+1454;1;300;5830;RT @DonaLuciaHexa: A maior prova que nuo somos mais o pas do futebol  que a maior emissora prefere passar The Voice do que a rodada do BrOCa
+1455;4;500;5336
+1456;1;500;5831;Aposto de dorme no meio do filme https://t.co/wfwzWR9Cft
+1457;1;300;5832;Como deixa o centroavante dos caras desmarcado no escanteio? Fluminense marca por zona.  Futebol nuo  basquete
+1458;1;400;5833;Saiba quem suo os 14 vereadores que nuo permaneceruo na Comara a partir de 2017 - Agora RN o pro  elegeram parentes https://t.co/jDV73bKkSo
+1459;1;200;5834;Gostei de um vdeo @YouTube https://t.co/9a0Nf5iklf - Prova Filme Mudo - #JaimeLira
+1460;1;100;5835;@CassiaAlene ok  agora parece plot de filme de terror
+1461;1;100;5836;RT @LuhanBrasil: (#WEIBO) 30/09/16 Atualizaouo do Luhan:Hoje  sexta-feira  estou olhando na direouo do campo de futebol yuyuyu https://t.OCa
+1462;1;500;5837;Entendendo Inferno o filme por Sandel. https://t.co/NLzeBWVzc7
+1463;1;400;5838;RT @KeferaBuchmanm_: Amanhu  a estria do filme eFada em todo Brasil  Que orgulho eu tenho da @Kefera VAI BRASIL VAMO ENCHE A PORRA DESOCa
+1464;1;400;5839;acho que vou assistir um filme agora
+1465;1;100;5840;Meu irmuo colocou num filme de terror. ESSA HORA. Como eu durmo depois?
+1466;5;300
+1467;5;100
+1468;4;400;5294
+1469;1;100;5841;@REGINALDOdeLEME CHORO DE PERDEDOR BUAAAAAAAAA  KKKKKKK https://t.co/PdTt8h3SrR
+1470;4;500;5167
+1471;1;500;5842;Queria assisti filme com os migos
+1472;1;100;5843;I liked a @YouTube video from @juliococielo https://t.co/FjPg9WCU5y CLICHeS DE FILME ROMeNTICO
+1473;4;400;5739
+1474;4;200;5520
+1475;1;300;5844;Gostei de um vdeo @YouTube de @juliococielo https://t.co/MUbeHf5oJG CLICHeS DE FILME ROMeNTICO
+1476;4;300;5728
+1477;4;400;5130
+1478;4;300;5426
+1479;1;100;5845;RT @naotefresqueia: Michel Tel ji foi figurante em filme de vampiro #TheVoiceBR #TheVoiceBrasil https://t.co/HMibJEtIt1
+1480;4;500;5587
+1481;5;300
+1482;1;500;5846;CLICHeS DE FILME ROMeNTICO https://t.co/C7VZMF06aV via @YouTube
+1483;1;100;5847;RT @ThinkOfYouZayn: Eu fiquei na mesma sala que o Harry na audiouo para o filme e devo dizer que o processo  bem estressante. OCo Jack LowOCa
+1484;4;300;5075
+1485;1;500;5848;Vou ter que assistir o filme que a professora passo na aula hoje de novo
+1486;4;300;5642
+1487;4;400;5009
+1488;1;200;5849;RT @TucanoVermelho: #CrianoaFeliz Marcela Temer de azul e Temer congelando educaouo e sade por 20 anos  filme: Frozen Uma Aventura CoOCa
+1489;1;400;5850;AaBrasileiruo OiUAcabou!oSantos 2x1 Fluminense.OUCopete e R. Oliveira // W. Silva.oGuia do Futebol: https://t.co/5DytQweBMn
+1490;1;300;5851;futebol  um saco
+1491;1;200;5852;@AnaBGK imagino miga. E toda vez esse filme me di um n no peito pensando nas oportunidades q a gente perde na vida
+1492;1;100;5853;RT @migasuafalsa: porque voc gosta de filme de animaouo https://t.co/Rq5bi98DFi
+1493;1;500;5854;RT @juliococielo: OLHA O VIDEO NOVO!!! CLICHeS DE FILME ROMeNTICO: https://t.co/xBz1vZyRrT 2 mil rts fariam meu dia lindo On A
+1494;1;100;5855;Se eu nao ficar gripada antes do intermed vai ser uma vitoria pq ensaio da bateria e futebol na chuva ta complicado
+1495;1;500;5856;quase certeza que essa parada de palhaoo li nos eua  publicidade p filme de terror
+1496;5;500
+1497;4;500;5299
+1498;1;300;5857;ontem vi o filme 'aguas rasas' e meu medo por tubarao aumento uns 90
+1499;4;500;5224
+1500;1;300;5858;RT @Picharillo77: Via Estaduo: PF indicia Lula e cita propina de R$ 31 mi a empresa de sobrinho -  https://t.co/1jIn4mrDMI

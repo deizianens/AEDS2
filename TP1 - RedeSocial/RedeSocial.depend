@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1476877471 source:c:\users\deiziane\documents\ufmg\aeds 2\codeblocks\redesocial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"usuarios.h"
+	"mensagens.h"
+
+1476883627 c:\users\deiziane\documents\ufmg\aeds 2\codeblocks\redesocial\usuarios.h
+	<stdbool.h>
+	"amigos.h"
+
+1476877822 source:c:\users\deiziane\documents\ufmg\aeds 2\codeblocks\redesocial\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"usuarios.h"
+
+1476827761 c:\users\deiziane\documents\ufmg\aeds 2\codeblocks\redesocial\mensagens.h
+	<stdbool.h>
+	"usuarios.h"
+
+1476827978 source:c:\users\deiziane\documents\ufmg\aeds 2\codeblocks\redesocial\mensagens.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"mensagens.h"
+	"usuarios.h"
+
+1476883113 c:\users\deiziane\documents\ufmg\aeds 2\codeblocks\redesocial\amigos.h
+	<stdbool.h>
+
+1476827978 source:c:\users\deiziane\documents\ufmg\aeds 2\backup\b2\redesocial\mensagens.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"mensagens.h"
+	"usuarios.h"
+
+1476827761 c:\users\deiziane\documents\ufmg\aeds 2\backup\b2\redesocial\mensagens.h
+	<stdbool.h>
+	"usuarios.h"
+
+1476920835 c:\users\deiziane\documents\ufmg\aeds 2\backup\b2\redesocial\usuarios.h
+	<stdbool.h>
+	"amigos.h"
+
+1476921467 c:\users\deiziane\documents\ufmg\aeds 2\backup\b2\redesocial\amigos.h
+	<stdbool.h>
+
+1476923164 source:c:\users\deiziane\documents\ufmg\aeds 2\backup\b2\redesocial\amigos.c
+	<stdio.h>
+	"amigos.h"
+	"usuarios.h"
+
+1476923463 source:c:\users\deiziane\documents\ufmg\aeds 2\backup\b2\redesocial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"usuarios.h"
+	"mensagens.h"
+	"amigos.h"
+
+1476923194 source:c:\users\deiziane\documents\ufmg\aeds 2\backup\b2\redesocial\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"usuarios.h"
+
+1476967308 source:c:\users\deizianens\downloads\redesocial\redesocial\amigos.c
+	<stdio.h>
+	"amigos.h"
+	"usuarios.h"
+
+1476964399 c:\users\deizianens\downloads\redesocial\redesocial\amigos.h
+	<stdbool.h>
+
+1476966763 c:\users\deizianens\downloads\redesocial\redesocial\usuarios.h
+	<stdbool.h>
+	"amigos.h"
+	"mensagens.h"
+
+1476967371 source:c:\users\deizianens\downloads\redesocial\redesocial\mensagens.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"mensagens.h"
+	"usuarios.h"
+
+1476967197 c:\users\deizianens\downloads\redesocial\redesocial\mensagens.h
+	<stdbool.h>
+
+1476967173 source:c:\users\deizianens\downloads\redesocial\redesocial\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"usuarios.h"
+
+1476966982 source:c:\users\deizianens\downloads\redesocial\redesocial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"usuarios.h"
+	"mensagens.h"
+	"amigos.h"
+
+1477691671 source:c:\users\deiziane\documents\ufmg\aeds 2\plmdds\redesocial (1)\redesocial\mensagens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"mensagens.h"
+	"usuarios.h"
+
+1477691671 c:\users\deiziane\documents\ufmg\aeds 2\plmdds\redesocial (1)\redesocial\mensagens.h
+	<stdbool.h>
+
+1477614354 c:\users\deiziane\documents\ufmg\aeds 2\plmdds\redesocial (1)\redesocial\usuarios.h
+	<stdbool.h>
+	"amigos.h"
+	"mensagens.h"
+
+1477614354 c:\users\deiziane\documents\ufmg\aeds 2\plmdds\redesocial (1)\redesocial\amigos.h
+	<stdbool.h>
+
+1476996580 source:c:\users\deiziane\documents\ufmg\aeds 2\plmdds\redesocial (1)\redesocial\amigos.c
+	<stdio.h>
+	"amigos.h"
+	"usuarios.h"
+
+1477694395 source:c:\users\deiziane\documents\ufmg\aeds 2\plmdds\redesocial (1)\redesocial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"usuarios.h"
+	"mensagens.h"
+	"amigos.h"
+
+1477692775 source:c:\users\deiziane\documents\ufmg\aeds 2\plmdds\redesocial (1)\redesocial\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"usuarios.h"
+	"mensagens.h"
+
